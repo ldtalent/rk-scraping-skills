@@ -1,6 +1,7 @@
 from stackapi import StackAPI
+import stackapi
 
-def get_tags(parameter_list,count,sitename,maxpage=1,pagesize=50,page_no=1):
+def get_tags(parameter_list,count,sitename,maxpage,pagesize,page_no):
     try:
         SITE = StackAPI(sitename)
         SITE.max_pages = maxpage
