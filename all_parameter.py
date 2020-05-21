@@ -1,6 +1,8 @@
 import requests
 from pandas.io.json import json_normalize
 
+# Getting the list of all the api_parameter 
+
 def get_site_data(api_site):
 
     site_json= requests.get(api_site).json()

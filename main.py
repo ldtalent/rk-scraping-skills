@@ -49,7 +49,6 @@ for api_parameter in parameter_not_removed:
         if result != 0:
             data= result[0]
     else:
-        print("Entered other")
         result = get_data(other_skills_number,api_parameter,parameter_not_removed,count)
         if result != 0:
             data= result[0]
