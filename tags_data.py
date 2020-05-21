@@ -1,6 +1,9 @@
 from stackapi import StackAPI
 import stackapi
 
+
+# function to extract skills from API
+
 def get_tags(parameter_list,count,sitename,maxpage,pagesize,page_no):
     try:
         SITE = StackAPI(sitename)
