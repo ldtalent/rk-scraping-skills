@@ -2,7 +2,6 @@ import pandas as pd
 
 from all_parameter import get_site_data
 from getting_data import get_data
-from ld_web_skill import get_skills
 from clean_data import clean_main_data
 
 
@@ -77,9 +76,9 @@ for api_parameter in parameter_not_removed:
 
     print("Finished scraping:",api_parameter )
 
-ld_df = get_skills()
 
-clean_main = clean_main_data(main_df,ld_df)
+
+clean_main = clean_main_data(main_df)
 
 clean_main.to_csv("import_data.csv")
 
