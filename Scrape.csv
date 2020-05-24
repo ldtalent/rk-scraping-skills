@@ -1,0 +1,495 @@
+,Skill
+0,.NET
+1,.NET Core
+2,Ansible
+3,Apache Kafka
+4,Apache Mesos
+5,AppleScript
+6,Assembly
+7,Bash
+8,C
+9,C#
+10,C++
+11,Clojure
+12,COBOL
+13,Compilers
+14,CSS
+15,Dart
+16,Debuggers
+17,DevSecOps
+18,Docker
+19,Elixir
+20,Erlang
+21,Fortran
+22,Git
+23,Go
+24,Haskell
+25,HTML
+26,HTTP
+27,J2EE
+28,Java
+29,JavaScript
+30,Jenkins
+31,JSX
+32,Kotlin
+33,LISP
+34,Magento
+35,Metal Graphics
+36,Microsoft DirectX
+37,MPI Library
+38,MVC
+39,NoSQL
+40,Objective C
+41,OpenGL
+42,OpenShift
+43,Performance Tools
+44,Perl
+45,PHP
+46,PostGIS
+47,Python
+48,QML
+49,Regex
+50,REST
+51,Ruby
+52,Rust
+53,Sass
+54,Scala
+55,Singularity Containerization
+56,SQL
+57,SSIS
+58,UML Diagrams
+59,UNIX
+60,VBA
+61,WebAssembly
+62,WebRTC
+63,XML
+64,AJAX
+65,AMQP Messaging Queue
+66,Android native app development
+67,Android Studio
+68,Angular
+69,Apollo GraphQL
+70,ASP.NET
+71,Babel JS
+72,Backbone
+73,Big Table
+74,Bootstrap
+75,Bubble
+76,Bulma
+77,Cassandra
+78,Chai
+79,ChartJS
+80,Chef
+81,Chrome Extension Development
+82,Cocoa
+83,Contentful
+84,Continuous Integration
+85,Cordova
+86,Couchbase
+87,CSS Flex
+88,CSS preprocessors
+89,Cucumber
+90,Data Semantic Layers
+91,DataDog Cloud Monitoring
+92,dbt
+93,Developer Experience (DevEx)
+94,DevOps
+95,Django
+96,Drupal
+97,DynamoDB
+98,ECMA
+99,ECMAScript
+100,Electron
+101,Elm
+102,Ember.js
+103,Expo
+104,ExpressJS
+105,Firefox Extension Development
+106,Flask
+107,Flow JS
+108,Flutter
+109,Flux
+110,G Suite
+111,Gatsby
+112,Google Analytics
+113,Google Lighthouse
+114,Google RAIL Model
+115,Google Scripts
+116,Google Tag Manager
+117,GraphQL
+118,Grind Rocks for Node
+119,Interaction Design
+120,Internet Explorer Extension Development
+121,InVision
+122,Ionic
+123,iOS native app development
+124,Jasmine
+125,Joomla
+126,jQuery
+127,Karma
+128,KnockoutJS
+129,Laravel
+130,Mac Application Development
+131,MariaDB
+132,Material Design
+133,Memcached
+134,MeteorJS
+135,Microsoft SQL Server
+136,Mocha
+137,MongoDB
+138,MySQL
+139,Neo4j
+140,Nest.js
+141,NextJS
+142,No-Code
+143,Nodejs
+144,Nuxt.js
+145,OracleDB
+146,Play Framework
+147,PostCSS
+148,Postgres
+149,Postman
+150,PrometheusDB
+151,Rabbit MQ
+152,React
+153,React native
+154,ReasonML
+155,Redis
+156,Redux
+157,RSpec
+158,Ruby on rails
+159,RxJS
+160,RxSwift
+161,Safari Extension Development
+162,sails js
+163,Scylladb
+164,Semantic-UI
+165,SEO
+166,SIP Session Initiation Procol
+167,Site Reliability
+168,SiteCore
+169,Slackbots
+170,Solidus
+171,Spree Commerce
+172,SQLite
+173,Stencil.js
+174,Storybook
+175,Svelte
+176,SVG
+177,Swift
+178,Symfony
+179,Three.js
+180,Typescript
+181,typo3
+182,UI Design
+183,UX Design
+184,Vagrant
+185,VirtualBox
+186,Visual Basic
+187,Visual Studio
+188,Vue.js
+189,VulcanJS
+190,Webflow
+191,WebGL
+192,Webpack
+193,WebSockets
+194,WHMS
+195,Windows Application Development
+196,Wix
+197,Wordpress
+198,Xamarin
+199,XCode
+200,Zeplin
+201,Artificial intelligence
+202,Autonomous Vehicles and Self Driving ...
+203,BluePrism
+204,Computer vision
+205,Data mining
+206,Deep learning
+207,Drones
+208,keras
+209,KNIME
+210,Machine learning
+211,Natural language processing
+212,OCR
+213,Probabilistic graphical models
+214,PyTorch
+215,Quadrocopters
+216,Reinforcement learning
+217,Robotics
+218,RPA
+219,Speech recognition
+220,Torch
+221,UIPath
+222,QTP/ HP for QA Testing
+223,.obj files
+224,3D Configurators (Verge3D)
+225,3D modeling
+226,3Dmax
+227,Adobe Creative Cloud
+228,Adobe Illustrator
+229,Adobe Premiere Pro
+230,Adobe XD
+231,Affinity Design
+232,Agile
+233,Amazon Lumberyard
+234,Android Wear
+235,Apache Jmeter
+236,Apache Spark
+237,Apex
+238,Appium for QA Testing
+239,Augmented Reality AR
+240,Autodesk Maya
+241,Autodesk Revit
+242,Bioinformatics
+243,Blockchain
+244,Browser automation
+245,Bugzilla
+246,Canva
+247,Chatbots
+248,Civis
+249,Cloud Migration
+250,Computational Linguistics
+251,CorelDraw
+252,cPanel
+253,Crafter CMS
+254,CryEngine
+255,Cyber Security
+256,Data Analytics
+257,Data Engineering
+258,Data Science
+259,Data visualization
+260,Decentralized Systems
+261,DeFi
+262,Design Modo
+263,Distributed Memory Systems
+264,Distributed Systems
+265,EMR Software
+266,Ethereum
+267,ETL Extract Transform Load
+268,Final Cut Pro
+269,Fogbuz
+270,Fourier Transforms
+271,Framer X
+272,GDPR Compliance
+273,Genomics
+274,GIMP
+275,GIS
+276,glTF 3D Scenes
+277,Gmail Add-ons
+278,Google Cloud (GCP) Composer
+279,Google Sketchup
+280,GPU accelerators
+281,Grafana Visualization Software
+282,Graphic Design
+283,Hackintosh
+284,Hadoop
+285,HashiCorp Vault
+286,HP Quality Centre
+287,HPC architectures
+288,Hyperledger
+289,IBM DB2
+290,Illustrator
+291,InDesign
+292,Inkscape
+293,iOT
+294,IP Randomization
+295,Jitsi videobridge
+296,JMP
+297,Jupyter
+298,Kaizen
+299,Kanban
+300,Kubernetes
+301,Lean
+302,Lego Mindstorms
+303,Load runner
+304,Logic Pro X
+305,Looker
+306,Mapreduce
+307,Marketplaces
+308,Maven
+309,Microscopes
+310,Microservices
+311,Microsoft Excel
+312,Minitab
+313,Moodle
+314,Multiprocessors
+315,Open EdX Development
+316,Oracle HCM
+317,Photoshop
+318,Power BI
+319,PractiTest
+320,Pro Tools
+321,Product Lifecycle Management
+322,Proteomics
+323,Puppet
+324,QACoverage
+325,qTest
+326,Quantum Computing
+327,R for Statistics
+328,Rancher
+329,Rhino
+330,Saleforce Lightning
+331,Sales Engineering
+332,Salesforce Development
+333,Salesforce Einstein
+334,Salesforce Pardot
+335,SCRUM
+336,Security
+337,Seetest for QA Testing
+338,Serverless Architecture
+339,Service Design
+340,ServiceNow
+341,SharePoint
+342,Shopify
+343,Sketch
+344,Snowflake
+345,SOAP UI
+346,Solidity
+347,Sonar
+348,Sound Engineering
+349,SSL
+350,Stitch
+351,TCP/IP
+352,TestCaseLab
+353,TestLink
+354,TestLodge
+355,TestRail
+356,TFS
+357,Totara LMS
+358,Turtle Logo
+359,Umbraco
+360,Unity Augmented Reality Design and De...
+361,Unity Game Design and Development
+362,Unity Virtual Reality Design and Deve...
+363,Unreal Engine Game Development
+364,Version One
+365,Video Streaming
+366,Virtual Reality VR
+367,Web Hosting
+368,Web scrapers
+369,Woocommerce
+370,Zapier
+371,ADA Compliance
+372,Adobe AIR
+373,AMBER Molecular Dynamics Software
+374,Apache Hadoop
+375,AWS Cloud Compliance
+376,Biopython
+377,Blockchain API
+378,Chatfuel
+379,D3
+380,Facebook API
+381,Finance Cloud Compliance
+382,Github API
+383,Google API
+384,Google Computer Vision API
+385,Google Maps API
+386,Google NLP API
+387,Government Cloud Compliance (US DoD)
+388,HIPAA Cloud Compliance
+389,Mailchimp API
+390,Mapbox
+391,Matplotlib
+392,Microsoft Office API
+393,Numpy
+394,Pandas
+395,Paypal API
+396,Phone2Action
+397,PyQt5
+398,Python Selenium
+399,RapidAPI
+400,Ripple API
+401,scikit-learn
+402,Selenium
+403,Sendgrid API
+404,Sequelize
+405,Slack API
+406,Socket.IO
+407,Stripe API
+408,Tensorflow
+409,Twilio API
+410,Twitter APIs
+411,Vega
+412,Vega Lite
+413,ZOHO Development
+414,.dxf files
+415,ANSYS
+416,AutoCAD
+417,Autodesk
+418,Digital Manufacturing
+419,Hypermesh
+420,Intel x86
+421,LabVIEW
+422,MATLAB
+423,Medical Devices
+424,RFID
+425,RISC-V
+426,SolidWorks
+427,SPICE (ic design)
+428,Verilog
+429,VHDL
+430,Actuate Espreadsheet
+431,Amazon ElastiCache
+432,Arduino
+433,ARM
+434,Asana
+435,Autosys
+436,AWS
+437,AWS CloudFront
+438,AWS DynamoDB
+439,AWS EC2
+440,AWS ECR
+441,AWS Elastic Beanstalk
+442,AWS ElasticMapReduce
+443,AWS Elasticsearch
+444,AWS IoT
+445,AWS Key Management Service
+446,AWS Lambda
+447,AWS RDS
+448,AWS Redshift
+449,AWS S3
+450,Azure
+451,Blue State Digital
+452,Cloud Foundry
+453,Cocoon
+454,DROOLS
+455,Eclipse
+456,Electronic Health Records
+457,Embedded Software
+458,Excel
+459,Firebase
+460,FMEA Analysis
+461,Google Cloud
+462,Heroku
+463,Hibernate
+464,IBM Cloud Watson
+465,JIRA
+466,Linux
+467,MacOS
+468,Microcontrollers
+469,Microsoft Project
+470,Multithreaded Programming
+471,Oracle BI
+472,OSCache
+473,Pareto Analysis
+474,PEST Analysis
+475,Plotly
+476,Prisma
+477,Product Management
+478,Quality Assurance QA
+479,Raspberry Pi
+480,RTOS
+481,SAP
+482,Silverpop
+483,SOAP
+484,Sockets
+485,Spring
+486,SWOT Analysis
+487,Tableau
+488,Terraform
+489,Trello
+490,UX Research
+491,VoC Strategy Analysis
+492,Windows
+493,XSLT
