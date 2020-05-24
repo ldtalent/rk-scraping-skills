@@ -1,5 +1,5 @@
 from math import ceil
-from pandas.io.json import json_normalize
+from pandas import json_normalize
 import pandas as pd 
 
 from tags_data import get_tags
