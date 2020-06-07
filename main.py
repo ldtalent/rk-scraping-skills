@@ -8,9 +8,7 @@ from clean_data import clean_main_data
 #getting all the api_parameters from the api
 parameter = get_site_data('https://api.stackexchange.com/2.2/sites?pagesize=500')
 #list of api_paramter to remove 
-parameter_to_remove = ['gaming', 'cooking', 'photo', 'diy', 'english', 'bicycles', 'rpg','homebrew' ,'boardgames', 'writing', 'scifi', 'skeptics', 'fitness', 'parenting', 'music', 'german', 'japanese', 'judaism', 'christianity', 'philosophy', 'gardening', 'travel', 'french', 'hermeneutics', 'history', 'spanish', 'bricks', 'scicomp', 'movies', 'chinese', 'poker', 'outdoors', 'martialarts', 'sports', 'academia', 'workplace', 'windowsphone', 'chess', 'russian', 'islam', 'patents', 'politics', 'anime', 'genealogy', 'ell', 'sound', 'pets', 'ham', 'italian', 'pt.stackoverflow', 'ebooks', 'alcohol', 'cs50', 'expatriates', 'matheducators', 'puzzling', 'craftcms', 'buddhism', 'hinduism', 'communitybuilding', 'worldbuilding', 'ja.stackoverflow', 'hsm', 'lifehacks', 'coffee', 'musicfans', 'woodworking', 'civicrm', 'ru.stackoverflow', 'rus', 'mythology', 'portuguese', 'es.stackoverflow', '3dprinting', 'latin', 'crafts', 'korean', 'retrocomputing', 'monero', 'esperanto', 'sitecore', 'literature', 'vegetarianism', 'ukrainian', 'cseducators', 'interpersonal', 'iota', 'stellar', 'conlang', 'eosio', 'tezos', 'drones', 'earthscience']
-
-
+parameter_to_remove = ['gaming', 'cooking', 'photo', 'diy', 'stackapps' , 'codereview','webapps','codegolf', 'freelancing' , 'softwarerecs' , 'economics','languagelearning' , 'english', 'bicycles', 'rpg','homebrew' ,'boardgames', 'writing', 'scifi', 'skeptics', 'fitness', 'parenting', 'music', 'german', 'japanese', 'judaism', 'christianity', 'philosophy', 'gardening', 'travel', 'french', 'hermeneutics', 'history', 'spanish', 'bricks', 'scicomp', 'movies', 'chinese', 'poker', 'outdoors', 'martialarts', 'sports', 'academia', 'workplace', 'windowsphone', 'chess', 'russian', 'islam', 'patents', 'politics', 'anime', 'genealogy', 'ell', 'sound', 'pets', 'ham', 'italian', 'pt.stackoverflow', 'ebooks', 'alcohol', 'cs50', 'expatriates', 'matheducators', 'puzzling', 'craftcms', 'buddhism', 'hinduism', 'communitybuilding', 'worldbuilding', 'ja.stackoverflow', 'hsm', 'lifehacks', 'coffee', 'musicfans', 'woodworking', 'civicrm', 'ru.stackoverflow', 'rus', 'mythology','opensource','tor','opendata','raspberrypi', 'portuguese', 'es.stackoverflow', '3dprinting', 'latin', 'crafts', 'korean', 'retrocomputing', 'monero', 'esperanto', 'sitecore', 'literature', 'vegetarianism', 'ukrainian', 'cseducators', 'interpersonal', 'iota','webapps','apple','android', 'stellar', 'conlang', 'eosio', 'tezos', 'drones', 'earthscience', 'elementaryos']
 
 parameter_removed = []
 parameter_not_removed = []
@@ -80,7 +78,7 @@ for api_parameter in parameter_not_removed:
 
 clean_main = clean_main_data(main_df)
 
-clean_main.to_csv("import_data.csv")
+clean_main.to_csv("new_data_from_stackexchange.csv")
 
             
 
