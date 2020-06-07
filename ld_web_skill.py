@@ -49,7 +49,6 @@ def get_skills():
     
     df = pd.DataFrame(dict([ (k,pd.Series(v)) for k,v in category_skill.items() ])) 
 
-    df.to_csv("LD_site_data.csv")
 
     return df
 

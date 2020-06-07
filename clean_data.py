@@ -1,6 +1,5 @@
 import pandas as pd
-
-from ld_web_skill import get_skills
+import numpy as np
 
 #Cleaning the data
 def remove_num(skill):
@@ -36,15 +35,15 @@ def clean_main_data(df_clean):
     df_clean['name'] = df_clean['name'].apply(wrangle_string)
 
     #Extracting skills from the ld website to compare them
-    df_ld_scrape = get_skills()
+    df_ld_scrape = pd.read_csv("LD_site_data.csv")
 
     skill_ld_list = []
     for colname,values in df_ld_scrape.iterrows():
         skill_ld_list.append(values)
 
-    skill_series = pd.series(skill_ld_list).ravel()
+    skill_series = np.array(skill_ld_list).flatten()
 
-    df_ld_skill = skill_series.to_frame(name = "Skill")
+    df_ld_skill = pd.DataFrame(skill_series,columns =["Skill"])
 
     df_ld_skill['Skill'] = df_ld_skill['Skill'].apply(wrangle_string_ld)
 
@@ -56,6 +55,6 @@ def clean_main_data(df_clean):
     df_clean = df_clean[df_clean['name'] != "Null"]
 
     df_clean.rename(columns={"name": "skill", "skills": "site"})
-        
+
     return df_clean
     
