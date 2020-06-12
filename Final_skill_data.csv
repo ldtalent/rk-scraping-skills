@@ -63,8 +63,8 @@
 61,WebAssembly,KnockoutJS,,Hackintosh,,,VoC Strategy Analysis
 62,WebRTC,Laravel,,Hadoop,,,Windows
 63,XML,Mac Application Development,,HashiCorp Vault,,,XSLT
-64,,MariaDB,,Hyperledger,,,
-65,,Material Design,,IBM DB2,,,
+64,CouchDB,MariaDB,,Hyperledger,,,
+65,arrays,Material Design,,IBM DB2,,,
 66,,Memcached,,IP Randomization,,,
 67,,MeteorJS,,Illustrator,,,
 68,,Microsoft SQL Server,,InDesign,,,
