@@ -2,7 +2,7 @@ import pandas as pd
 
 from all_parameter import get_site_data
 from getting_data import get_data
-from clean_data import clean_main_data
+from clean_data import clean_main_data,wrangle_string_ld
 
 from ld_web_skill import get_skills
 
@@ -10,11 +10,12 @@ from add_new_skill_manual import add_skill_manual
 from add_stack_skill import add_skill_stack
 
 #Getting skills from ld site
-df_ld_skills = get_skills()
 
-df_ld_skills.to_csv("LD_site_data.csv")
+#ld_skills = get_skills()
 
-df_main = df_ld_skills.copy()
+ld_skills = pd.read_csv("Final_Skill_Data.csv")
+
+main = ld_skills.copy()
 
 #Add skill manually
 
@@ -26,7 +27,7 @@ while True:
         print("Invalid option")
 
 if add_skill.lower() == 'y':
-    df_main = add_skill_manual(df_ld_skills)
+    main = add_skill_manual(ld_skills)
 
 #Add skill from stack
 
@@ -42,7 +43,7 @@ if add_skill_by_stack.lower() == 'y':
     #getting all the api_parameters from the api
     parameter = get_site_data('https://api.stackexchange.com/2.2/sites?pagesize=500')
     #list of api_paramter to remove 
-    parameter_to_remove = ['gaming', 'cooking', 'photo', 'diy', 'stackapps' , 'codereview','webapps','codegolf', 'freelancing' , 'softwarerecs' , 'economics','languagelearning' , 'english', 'bicycles', 'rpg','homebrew' ,'boardgames', 'writing', 'scifi', 'skeptics', 'fitness', 'parenting', 'music', 'german', 'japanese', 'judaism', 'christianity', 'philosophy', 'gardening', 'travel', 'french', 'hermeneutics', 'history', 'spanish', 'bricks', 'scicomp', 'movies', 'chinese', 'poker', 'outdoors', 'martialarts', 'sports', 'academia', 'workplace', 'windowsphone', 'chess', 'russian', 'islam', 'patents', 'politics', 'anime', 'genealogy', 'ell', 'sound', 'pets', 'ham', 'italian', 'pt.stackoverflow', 'ebooks', 'alcohol', 'cs50', 'expatriates', 'matheducators', 'puzzling', 'craftcms', 'buddhism', 'hinduism', 'communitybuilding', 'worldbuilding', 'ja.stackoverflow', 'hsm', 'lifehacks', 'coffee', 'musicfans', 'woodworking', 'civicrm', 'ru.stackoverflow', 'rus', 'mythology','opensource','tor','opendata','raspberrypi', 'portuguese', 'es.stackoverflow', '3dprinting', 'latin', 'crafts', 'korean', 'retrocomputing', 'monero', 'esperanto', 'sitecore', 'literature', 'vegetarianism', 'ukrainian', 'cseducators', 'interpersonal', 'iota','webapps','apple','android', 'stellar', 'conlang', 'eosio', 'tezos', 'drones', 'earthscience', 'elementaryos']
+    parameter_to_remove = ['gaming', 'cooking', 'photo', 'diy', 'stackapps' , 'codereview','webapps','codegolf', 'freelancing' ,'materials','bioinformatics','hardwarerecs','law','medicalsciences','vi','engineering','emacs','joomla','aviation','blender','tridion','magento','robotics', 'softwarerecs' , 'economics','languagelearning' , 'english', 'bicycles', 'rpg','homebrew' ,'boardgames', 'writing', 'scifi', 'skeptics', 'fitness', 'parenting', 'music', 'german', 'japanese', 'judaism', 'christianity', 'philosophy', 'gardening', 'travel', 'french', 'hermeneutics', 'history', 'spanish', 'bricks', 'scicomp', 'movies', 'chinese', 'poker', 'outdoors', 'martialarts', 'sports', 'academia', 'workplace', 'windowsphone', 'chess', 'russian', 'islam', 'patents', 'politics', 'anime', 'genealogy', 'ell', 'sound', 'pets', 'ham', 'italian', 'pt.stackoverflow', 'ebooks', 'alcohol', 'cs50', 'expatriates', 'matheducators', 'puzzling', 'craftcms', 'buddhism', 'hinduism', 'communitybuilding', 'worldbuilding', 'ja.stackoverflow', 'hsm', 'lifehacks', 'coffee', 'musicfans', 'woodworking', 'civicrm', 'ru.stackoverflow', 'rus', 'mythology','opensource','tor','opendata','raspberrypi', 'portuguese', 'es.stackoverflow', '3dprinting', 'latin', 'crafts', 'korean', 'retrocomputing', 'monero', 'esperanto', 'sitecore', 'literature', 'vegetarianism', 'ukrainian', 'cseducators', 'interpersonal', 'iota','webapps','apple','android', 'stellar', 'conlang', 'eosio', 'tezos', 'drones', 'earthscience', 'elementaryos']
 
     parameter_removed = []
     parameter_not_removed = []
@@ -113,8 +114,18 @@ if add_skill_by_stack.lower() == 'y':
     clean_main.to_csv("new_data_from_stackexchange.csv")
 
     #Adding stack skill in category
-    df_main = add_skill_stack(df_main,clean_main)
+    main = add_skill_stack(main,clean_main)
+
+
+for colname,value in main.iteritems():
+    main[colname] = main[colname].apply(wrangle_string_ld)
+
+category_skill={}
+for colname,values in main.iteritems():
+    to_sort_list = [x for x in values.tolist() if str(x).lower() != 'nan']
+    category_skill[colname] = sorted(to_sort_list)
     
 
-            
-df_main.to_csv("Final_skill_data.csv")
+main = pd.DataFrame(dict([ (k,pd.Series(v)) for k,v in category_skill.items() ]))
+
+main.to_csv("Final_Skill_Data.csv",index=False)

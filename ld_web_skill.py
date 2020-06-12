@@ -5,7 +5,7 @@ import pandas as pd
 
 def get_skills():
 
-    driver = webdriver.Chrome() # rk uses .Firefox() # gobi uses .Chrome()
+    driver = webdriver.Firefox()
 
     main_url = 'https://www.learningdollars.com/client/select_engineers/'
 

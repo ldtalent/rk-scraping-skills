@@ -1,14 +1,43 @@
 import pandas as pd 
+import numpy as np
 
- 
+from clean_data import wrangle_string_ld
 
-def add_skill_manual(df_ld_skill):
+def check_if_skill_exist(ld_skill,manual_skill):
+    #Checking if skills exists already
+        
+    skill_ld_list = []
+    for colname,values in ld_skill.iterrows():
+        skill_ld_list.append(values)
+
+    skill_series = np.array(skill_ld_list).flatten()
+
+    prior_skill_list = pd.DataFrame(skill_series,columns =["Skill"])
+
+    prior_skill_list['Skill'] = prior_skill_list['Skill'].apply(wrangle_string_ld)
+    
+    prior_skill_list= list(prior_skill_list['Skill'])
+
+    if str(manual_skill).title() in prior_skill_list:
+        print("Skill already exists.")
+        return 0 
+
+
+
+def add_skill_manual(ld_skill):
     while True:
         
         manual_skill = input("Please enter the skill: ")
+        
+        skill_exist_checkpoint = check_if_skill_exist(ld_skill,manual_skill)
+
+        if skill_exist_checkpoint == 0:
+            continue 
+       
+
 
         count = 0
-        category = df_ld_skill.columns 
+        category = ld_skill.columns 
 
         for i in category:
             skill_no = count+1           
@@ -27,7 +56,7 @@ def add_skill_manual(df_ld_skill):
 
         category_to_add = category[skill_to_add_category - 1]
 
-        df_ld_skill[category_to_add]=df_ld_skill[category_to_add].fillna(manual_skill,limit=1)
+        ld_skill[category_to_add]=ld_skill[category_to_add].fillna(manual_skill,limit=1)
 
         while True: 
             answer = input("Do you want to add more skill? (y/n): ")
@@ -41,5 +70,5 @@ def add_skill_manual(df_ld_skill):
         else:
             break 
 
-    return df_ld_skill
+    return ld_skill
 

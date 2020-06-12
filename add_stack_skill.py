@@ -1,9 +1,9 @@
 import pandas as pd 
 
 
-def add_skill_stack(main_df, to_add_df):
+def add_skill_stack(main, to_add):
 
-    for index, row in to_add_df.iterrows():
+    for index, row in to_add.iterrows():
         while True:
             question = "Do you want to add "+ str(row['name'])+" from "+str(row['skills'])+"? (y/n)"
             answer = input(question)
@@ -14,7 +14,7 @@ def add_skill_stack(main_df, to_add_df):
 
         if answer.lower() == 'y':
             count = 0
-            category = main_df.columns 
+            category = main.columns 
 
             for i in category:
                 skill_no = count+1           
@@ -32,7 +32,7 @@ def add_skill_stack(main_df, to_add_df):
 
             category_to_add = category[skill_to_add_category - 1]
 
-            main_df[category_to_add]=main_df[category_to_add].fillna(row['name'],limit=1)
+            main[category_to_add]=main[category_to_add].fillna(row['name'],limit=1)
 
             while True:
                 continue_to_add = input("Do you want to add more skill? (y/n)")
@@ -45,5 +45,5 @@ def add_skill_stack(main_df, to_add_df):
             else:
                 break
 
-    return main_df
+    return main
 
