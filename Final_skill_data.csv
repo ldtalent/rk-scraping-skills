@@ -1,150 +1,150 @@
-,Software Engineering,"Web, Mobile, and Desktop Application ...",Artificial Intelligence,Special Technologies and Expertise Areas,APIs and Packages,Electrical and Mechanical Engineering,Other Skills
-0,.NET,AJAX,Artificial intelligence, QTP/ HP for QA Testing,ADA Compliance,.dxf files,ARM
-1,.NET Core,AMQP Messaging Queue,Autonomous Vehicles and Self Driving ...,.obj files,AMBER Molecular Dynamics Software,ANSYS,AWS
-2,Ansible,ASP.NET,BluePrism,3D Configurators (Verge3D),AWS Cloud Compliance,AutoCAD,AWS CloudFront
-3,Apache Kafka,Android Studio,Computer vision,3D modeling,Adobe AIR,Autodesk,AWS DynamoDB
-4,Apache Mesos,Android native app development,Data mining,3Dmax,Apache Hadoop,Digital Manufacturing,AWS EC2
-5,AppleScript,Angular,Deep learning,Adobe Creative Cloud,Biopython,Hypermesh,AWS ECR
-6,Assembly,Apollo GraphQL,Drones,Adobe Illustrator,Blockchain API,Intel x86,AWS Elastic Beanstalk
-7,Bash,Babel JS,KNIME,Adobe Premiere Pro,Chatfuel,LabVIEW,AWS ElasticMapReduce
-8,C,Backbone,Machine learning,Adobe XD,D3,MATLAB,AWS Elasticsearch
-9,C#,Big Table,Natural language processing,Affinity Design,Facebook API,Medical Devices,AWS IoT
-10,C++,Bootstrap,OCR,Agile,Finance Cloud Compliance,RFID,AWS Key Management Service
-11,COBOL,Bubble,Probabilistic graphical models,Amazon Lumberyard,Github API,RISC-V,AWS Lambda
-12,CSS,Bulma,PyTorch,Android Wear,Google API,SPICE (ic design),AWS RDS
-13,Clojure,CSS Flex,Quadrocopters,Apache Jmeter,Google Computer Vision API,SolidWorks,AWS Redshift
-14,Compilers,CSS preprocessors,RPA,Apache Spark,Google Maps API,VHDL,AWS S3
-15,Dart,Cassandra,Reinforcement learning,Apex,Google NLP API,Verilog,Actuate Espreadsheet
-16,Debuggers,Chai,Robotics,Appium for QA Testing,Government Cloud Compliance (US DoD),,Amazon ElastiCache
-17,DevSecOps,ChartJS,Speech recognition,Augmented Reality AR,HIPAA Cloud Compliance,,Arduino
-18,Docker,Chef,Torch,Autodesk Maya,Mailchimp API,,Asana
-19,Elixir,Chrome Extension Development,UIPath,Autodesk Revit,Mapbox,,Autosys
-20,Erlang,Cocoa,keras,Bioinformatics,Matplotlib,,Azure
-21,Fortran,Contentful,,Blockchain,Microsoft Office API,,Blue State Digital
-22,Git,Continuous Integration,,Browser automation,Numpy,,Cloud Foundry
-23,Go,Cordova,,Bugzilla,Pandas,,Cocoon
-24,HTML,Couchbase,,Canva,Paypal API,,DROOLS
-25,HTTP,Cucumber,,Chatbots,Phone2Action,,Eclipse
-26,Haskell,Data Semantic Layers,,Civis,PyQt5,,Electronic Health Records
-27,J2EE,DataDog Cloud Monitoring,,Cloud Migration,Python Selenium,,Embedded Software
-28,JSX,DevOps,,Computational Linguistics,RapidAPI,,Excel
-29,Java,Developer Experience (DevEx),,CorelDraw,Ripple API,,FMEA Analysis
-30,JavaScript,Django,,Crafter CMS,Selenium,,Firebase
-31,Jenkins,Drupal,,CryEngine,Sendgrid API,,Google Cloud
-32,Kotlin,DynamoDB,,Cyber Security,Sequelize,,Heroku
-33,LISP,ECMA,,Data Analytics,Slack API,,Hibernate
-34,MPI Library,ECMAScript,,Data Engineering,Socket.IO,,IBM Cloud Watson
-35,MVC,Electron,,Data Science,Stripe API,,JIRA
-36,Magento,Elm,,Data visualization,Tensorflow,,Linux
-37,Metal Graphics,Ember.js,,DeFi,Twilio API,,MacOS
-38,Microsoft DirectX,Expo,,Decentralized Systems,Twitter APIs,,Microcontrollers
-39,NoSQL,ExpressJS,,Design Modo,Vega,,Microsoft Project
-40,Objective C,Firefox Extension Development,,Distributed Memory Systems,Vega Lite,,Multithreaded Programming
-41,OpenGL,Flask,,Distributed Systems,ZOHO Development,,OSCache
-42,OpenShift,Flow JS,,EMR Software,scikit-learn,,Oracle BI
-43,PHP,Flutter,,ETL Extract Transform Load,,,PEST Analysis
-44,Performance Tools,Flux,,Ethereum,,,Pareto Analysis
-45,Perl,G Suite,,Final Cut Pro,,,Plotly
-46,PostGIS,Gatsby,,Fogbuz,,,Prisma
-47,Python,Google Analytics,,Fourier Transforms,,,Product Management
-48,QML,Google Lighthouse,,Framer X,,,Quality Assurance QA
-49,REST,Google RAIL Model,,GDPR Compliance,,,RTOS
-50,Regex,Google Scripts,,GIMP,,,Raspberry Pi
-51,Ruby,Google Tag Manager,,GIS,,,SAP
-52,Rust,GraphQL,,GPU accelerators,,,SOAP
-53,SQL,Grind Rocks for Node,,Genomics,,,SWOT Analysis
-54,SSIS,InVision,,Gmail Add-ons,,,Silverpop
-55,Sass,Interaction Design,,Google Cloud (GCP) Composer ,,,Sockets
-56,Scala,Internet Explorer Extension Development,,Google Sketchup,,,Spring
-57,Singularity Containerization,Ionic,,Grafana Visualization Software,,,Tableau
-58,UML Diagrams,Jasmine,,Graphic Design,,,Terraform
-59,UNIX,Joomla,,HP Quality Centre,,,Trello
-60,VBA,Karma,,HPC architectures,,,UX Research
-61,WebAssembly,KnockoutJS,,Hackintosh,,,VoC Strategy Analysis
-62,WebRTC,Laravel,,Hadoop,,,Windows
-63,XML,Mac Application Development,,HashiCorp Vault,,,XSLT
-64,CouchDB,MariaDB,,Hyperledger,,,
-65,arrays,Material Design,,IBM DB2,,,
-66,,Memcached,,IP Randomization,,,
-67,,MeteorJS,,Illustrator,,,
-68,,Microsoft SQL Server,,InDesign,,,
-69,,Mocha,,Inkscape,,,
-70,,MongoDB,,JMP,,,
-71,,MySQL,,Jitsi videobridge,,,
-72,,Neo4j,,Jupyter,,,
-73,,Nest.js,,Kaizen,,,
-74,,NextJS,,Kanban,,,
-75,,No-Code,,Kubernetes,,,
-76,,Nodejs,,Lean,,,
-77,,Nuxt.js,,Lego Mindstorms,,,
-78,,OracleDB,,Load runner,,,
-79,,Play Framework,,Logic Pro X,,,
-80,,PostCSS,,Looker,,,
-81,,Postgres,,Mapreduce,,,
-82,,Postman,,Marketplaces,,,
-83,,PrometheusDB,,Maven,,,
-84,,RSpec,,Microscopes,,,
-85,,Rabbit MQ,,Microservices,,,
-86,,React,,Microsoft Excel,,,
-87,,React native,,Minitab,,,
-88,,ReasonML,,Moodle,,,
-89,,Redis,,Multiprocessors,,,
-90,,Redux,,Open EdX Development,,,
-91,,Ruby on rails,,Oracle HCM,,,
-92,,RxJS,,Photoshop,,,
-93,,RxSwift,,Power BI,,,
-94,,SEO,,PractiTest,,,
-95,,SIP Session Initiation Procol,,Pro Tools,,,
-96,,SQLite,,Product Lifecycle Management,,,
-97,,SVG,,Proteomics,,,
-98,,Safari Extension Development,,Puppet,,,
-99,,Scylladb,,QACoverage,,,
-100,,Semantic-UI,,Quantum Computing,,,
-101,,Site Reliability,,R for Statistics,,,
-102,,SiteCore,,Rancher,,,
-103,,Slackbots,,Rhino,,,
-104,,Solidus,,SCRUM,,,
-105,,Spree Commerce,,SOAP UI,,,
-106,,Stencil.js,,SSL,,,
-107,,Storybook,,Saleforce Lightning,,,
-108,,Svelte,,Sales Engineering,,,
-109,,Swift,,Salesforce Development,,,
-110,,Symfony,,Salesforce Einstein,,,
-111,,Three.js,,Salesforce Pardot,,,
-112,,Typescript,,Security,,,
-113,,UI Design,,Seetest for QA Testing,,,
-114,,UX Design,,Serverless Architecture,,,
-115,,Vagrant,,Service Design,,,
-116,,VirtualBox,,ServiceNow,,,
-117,,Visual Basic,,SharePoint,,,
-118,,Visual Studio,,Shopify,,,
-119,,Vue.js,,Sketch,,,
-120,,VulcanJS,,Snowflake,,,
-121,,WHMS,,Solidity,,,
-122,,WebGL,,Sonar,,,
-123,,WebSockets,,Sound Engineering,,,
-124,,Webflow,,Stitch,,,
-125,,Webpack,,TCP/IP,,,
-126,,Windows Application Development,,TFS,,,
-127,,Wix,,TestCaseLab,,,
-128,,Wordpress,,TestLink,,,
-129,,XCode,,TestLodge,,,
-130,,Xamarin,,TestRail,,,
-131,,Zeplin,,Totara LMS,,,
-132,,dbt,,Turtle Logo,,,
-133,,iOS native app development,,Umbraco,,,
-134,,jQuery,,Unity Augmented Reality Design and De...,,,
-135,,sails js,,Unity Game Design and Development,,,
-136,,typo3,,Unity Virtual Reality Design and Deve...,,,
-137,,,,Unreal Engine Game Development,,,
-138,,,,Version One,,,
-139,,,,Video Streaming,,,
-140,,,,Virtual Reality VR,,,
-141,,,,Web Hosting,,,
-142,,,,Web scrapers,,,
-143,,,,Woocommerce,,,
-144,,,,Zapier,,,
-145,,,,cPanel,,,
-146,,,,glTF 3D Scenes,,,
-147,,,,iOT,,,
-148,,,,qTest,,,
+Unnamed: 0,Software Engineering,"Web, Mobile, and Desktop Application ...",Artificial Intelligence,Special Technologies and Expertise Areas,APIs and Packages,Electrical and Mechanical Engineering,Other Skills
+0,.Net,Ajax,Artificial Intelligence, Qtp/ Hp For Qa Testing,Ada Compliance,.Dxf Files,Actuate Espreadsheet
+1,.Net Core,Amqp Messaging Queue,Autonomous Vehicles And Self Driving ...,.Obj Files,Adobe Air,Ansys,Amazon Elasticache
+10,Ansible,Android Native App Development,Blueprism,3D Configurators (Verge3D),Amber Molecular Dynamics Software,Autocad,Amplitude
+100,Apache Kafka,Android Studio,Computer Vision,3D Modeling,Apache Hadoop,Autodesk,Arduino
+101,Apache Mesos,Angular,Data Mining,3Dmax,Aws Cloud Compliance,Digital Manufacturing,Arm
+102,Applescript,Apollo Graphql,Deep Learning,Adobe Creative Cloud,Biopython,Hypermesh,Asana
+103,Arrays,Asp.Net,Drones,Adobe Illustrator,Blockchain Api,Intel X86,Autosys
+104,Assembly,Babel Js,Keras,Adobe Premiere Pro,Chatfuel,Labview,Aws
+105,Bash,Backbone,Knime,Adobe Xd,D3,Matlab,Aws Cloudfront
+106,C,Big Table,Machine Learning,Affinity Design,Facebook Api,Medical Devices,Aws Dynamodb
+107,C#,Bootstrap,Natural Language Processing,Agile,Finance Cloud Compliance,Rfid,Aws Ec2
+108,C++,Bubble,Ocr,Amazon Lumberyard,Github Api,Risc-V,Aws Ecr
+109,Clojure,Bulma,Probabilistic Graphical Models,Android Wear,Google Api,Solidworks,Aws Elastic Beanstalk
+11,Cobol,Cassandra,Pytorch,Apache Jmeter,Google Computer Vision Api,Spice (Ic Design),Aws Elasticmapreduce
+110,Compilers,Chai,Quadrocopters,Apache Spark,Google Maps Api,Verilog,Aws Elasticsearch
+111,Couchdb,Chartjs,Reinforcement Learning,Apex,Google Nlp Api,Vhdl,Aws Iot
+112,Css,Chef,Robotics,Appium For Qa Testing,Government Cloud Compliance (Us Dod),,Aws Key Management Service
+113,Dart,Chrome Extension Development,Rpa,Augmented Reality Ar,Hipaa Cloud Compliance,,Aws Lambda
+114,Debuggers,Cocoa,Speech Recognition,Autodesk Maya,Mailchimp Api,,Aws Rds
+115,Devsecops,Contentful,Torch,Autodesk Revit,Mapbox,,Aws Redshift
+116,Docker,Continuous Integration,Uipath,Bioinformatics,Matplotlib,,Aws S3
+117,Elixir,Cordova,,Blockchain,Microsoft Office Api,,Azure
+118,Erlang,Couchbase,,Browser Automation,Numpy,,Blue State Digital
+119,Fortran,Css Flex,,Bugzilla,Pandas,,Cloud Foundry
+12,Git,Css Preprocessors,,Canva,Paypal Api,,Cocoon
+120,Go,Cucumber,,Chatbots,Phone2Action,,Drools
+121,Haskell,Data Semantic Layers,,Civis,Pyqt5,,Eclipse
+122,Html,Datadog Cloud Monitoring,,Cloud Migration,Python Selenium,,Electronic Health Records
+123,Http,Dbt,,Computational Linguistics,Rapidapi,,Embedded Software
+124,J2Ee,Developer Experience (Devex),,Coreldraw,Ripple Api,,Excel
+125,Java,Devops,,Cpanel,Scikit-Learn,,Firebase
+126,Javascript,Django,,Crafter Cms,Selenium,,Fmea Analysis
+127,Jenkins,Drupal,,Cryengine,Sendgrid Api,,Google Cloud
+128,Jsx,Dynamodb,,Cyber Security,Sequelize,,Heroku
+129,Kotlin,Ecma,,Data Analytics,Slack Api,,Hibernate
+13,Lisp,Ecmascript,,Data Engineering,Socket.Io,,Ibm Cloud Watson
+130,Magento,Electron,,Data Science,Stripe Api,,Jira
+131,Metal Graphics,Elm,,Data Visualization,Tensorflow,,Linux
+132,Microsoft Directx,Ember.Js,,Decentralized Systems,Twilio Api,,Macos
+133,Mpi Library,Expo,,Defi,Twitter Apis,,Microcontrollers
+134,Mvc,Expressjs,,Design Modo,Vega,,Microsoft Project
+135,Nosql,Firefox Extension Development,,Distributed Memory Systems,Vega Lite,,Multithreaded Programming
+136,Objective C,Flask,,Distributed Systems,Zoho Development,,Oracle Bi
+137,Opengl,Flow Js,,Emr Software,,,Oscache
+138,Openshift,Flutter,,Ethereum,,,Pareto Analysis
+139,Performance Tools,Flux,,Etl Extract Transform Load,,,Pest Analysis
+14,Perl,G Suite,,Final Cut Pro,,,Plotly
+140,Php,Gatsby,,Fogbuz,,,Prisma
+141,Postgis,Google Analytics,,Fourier Transforms,,,Product Management
+142,Python,Google Lighthouse,,Framer X,,,Qgis
+143,Qml,Google Rail Model,,Gdpr Compliance,,,Quality Assurance Qa
+144,Regex,Google Scripts,,Genomics,,,Raspberry Pi
+145,Rest,Google Tag Manager,,Gimp,,,Rtos
+146,Ruby,Graphql,,Gis,,,Sap
+147,Rust,Grind Rocks For Node,,Gltf 3D Scenes,,,Silverpop
+148,Sass,Interaction Design,,Gmail Add-Ons,,,Soap
+15,Scala,Internet Explorer Extension Development,,Google Cloud (Gcp) Composer ,,,Sockets
+16,Singularity Containerization,Invision,,Google Sketchup,,,Spring
+17,Sql,Ionic,,Gpu Accelerators,,,Swot Analysis
+18,Ssis,Ios Native App Development,,Grafana Visualization Software,,,Tableau
+19,Uml Diagrams,Jasmine,,Graphic Design,,,Terraform
+2,Unix,Joomla,,Hackintosh,,,Trello
+20,Vba,Jquery,,Hadoop,,,Ux Research
+21,Webassembly,Karma,,Hashicorp Vault,,,Voc Strategy Analysis
+22,Webrtc,Knockoutjs,,Hp Quality Centre,,,Windows
+23,Xml,Laravel,,Hpc Architectures,,,Xslt
+24,,Mac Application Development,,Hyperledger,,,
+25,,Mariadb,,Ibm Db2,,,
+26,,Material Design,,Illustrator,,,
+27,,Memcached,,Indesign,,,
+28,,Meteorjs,,Inkscape,,,
+29,,Microsoft Sql Server,,Iot,,,
+3,,Mocha,,Ip Randomization,,,
+30,,Mongodb,,Jitsi Videobridge,,,
+31,,Mysql,,Jmp,,,
+32,,Neo4J,,Jupyter,,,
+33,,Nest.Js,,Kaizen,,,
+34,,Nextjs,,Kanban,,,
+35,,No-Code,,Kubernetes,,,
+36,,Nodejs,,Lean,,,
+37,,Nuxt.Js,,Lego Mindstorms,,,
+38,,Oracledb,,Load Runner,,,
+39,,Play Framework,,Logic Pro X,,,
+4,,Postcss,,Looker,,,
+40,,Postgres,,Mapreduce,,,
+41,,Postman,,Marketplaces,,,
+42,,Prometheusdb,,Maven,,,
+43,,Rabbit Mq,,Microscopes,,,
+44,,React,,Microservices,,,
+45,,React Native,,Microsoft Excel,,,
+46,,Reasonml,,Minitab,,,
+47,,Redis,,Moodle,,,
+48,,Redux,,Multiprocessors,,,
+49,,Rspec,,Open Edx Development,,,
+5,,Ruby On Rails,,Oracle Hcm,,,
+50,,Rxjs,,Photoshop,,,
+51,,Rxswift,,Power Bi,,,
+52,,Safari Extension Development,,Practitest,,,
+53,,Sails Js,,Pro Tools,,,
+54,,Scylladb,,Product Lifecycle Management,,,
+55,,Semantic-Ui,,Proteomics,,,
+56,,Seo,,Puppet,,,
+57,,Sip Session Initiation Procol,,Qacoverage,,,
+58,,Site Reliability,,Qtest,,,
+59,,Sitecore,,Quantum Computing,,,
+6,,Slackbots,,R For Statistics,,,
+60,,Solidus,,Rancher,,,
+61,,Spree Commerce,,Rhino,,,
+62,,Sqlite,,Saleforce Lightning,,,
+63,,Stencil.Js,,Sales Engineering,,,
+64,,Storybook,,Salesforce Development,,,
+65,,Svelte,,Salesforce Einstein,,,
+66,,Svg,,Salesforce Pardot,,,
+67,,Swift,,Scrum,,,
+68,,Symfony,,Security,,,
+69,,Three.Js,,Seetest For Qa Testing,,,
+7,,Typescript,,Serverless Architecture,,,
+70,,Typo3,,Service Design,,,
+71,,Ui Design,,Servicenow,,,
+72,,Ux Design,,Sharepoint,,,
+73,,Vagrant,,Shopify,,,
+74,,Virtualbox,,Sketch,,,
+75,,Visual Basic,,Snowflake,,,
+76,,Visual Studio,,Soap Ui,,,
+77,,Vue.Js,,Solidity,,,
+78,,Vulcanjs,,Sonar,,,
+79,,Webflow,,Sound Engineering,,,
+8,,Webgl,,Ssl,,,
+80,,Webpack,,Stitch,,,
+81,,Websockets,,Tcp/Ip,,,
+82,,Whms,,Testcaselab,,,
+83,,Windows Application Development,,Testlink,,,
+84,,Wix,,Testlodge,,,
+85,,Wordpress,,Testrail,,,
+86,,Xamarin,,Tfs,,,
+87,,Xcode,,Totara Lms,,,
+88,,Zeplin,,Turtle Logo,,,
+89,,,,Umbraco,,,
+9,,,,Unity Augmented Reality Design And De...,,,
+90,,,,Unity Game Design And Development,,,
+91,,,,Unity Virtual Reality Design And Deve...,,,
+92,,,,Unreal Engine Game Development,,,
+93,,,,Version One,,,
+94,,,,Video Streaming,,,
+95,,,,Virtual Reality Vr,,,
+96,,,,Web Hosting,,,
+97,,,,Web Scrapers,,,
+98,,,,Woocommerce,,,
+99,,,,Zapier,,,
