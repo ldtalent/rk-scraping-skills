@@ -3,8 +3,8 @@
 1. Check Final_skill_data.csv
 2. Run main.py.
 3. Enter skills in manually.
-4. Get new stackexchange skills (use 1K stackoverflow, 50 rest for now).
-5. Review new Final_skill_data.csv
+4. Get new stackexchange skills (use 1K stackoverflow, 50 rest for now). Note you need to put at least 1 for both stackoverflow and the other sites.
+5. Review new Final_skill_data.csv (change column width to 25)
 6. Sync with production LD db.
 
 - import_data.csv - original data from stackexchange (not used anymore)

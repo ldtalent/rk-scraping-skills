@@ -1,39 +1,40 @@
 ,name,count,skills
-0,unity,12365,gamedev
-0,r,22782,stats
-0,real analysis,109639,math
-0,qgis,28644,gis
-0,tikz pgf,26133,tex
-0,united states,11105,money
-0,usability,3218,ux
-0,plugins,9559,wordpress
-0,cc.complexity theory,2688,cstheory
-0,microcontroller,6974,electronics
-0,quantum mechanics,20360,physics
-0,encryption,5118,security
-0,video,1678,video
-0,sql server,28167,dba
-0,options,1626,quant
-0,engine,2324,mechanics
-0,sharepoint online,15136,sharepoint
-0,automated testing,3200,sqa
-0,image processing,2592,dsp
-0,bitcoin core,2952,bitcoin
-0,syntax,834,linguistics
-0,human biology,2312,biology
-0,plotting,11491,mathematica
-0,cognitive psychology,1153,psychology
-0,algorithms,8567,cs
-0,organic chemistry,7925,chemistry
+0,unity,12773,gamedev
+0,r,23478,stats
+0,real analysis,112634,math
+0,qgis,29468,gis
+0,tikz pgf,26732,tex
+0,united states,11396,money
+0,usability,3260,ux
+0,plugins,9753,wordpress
+0,cc.complexity theory,2706,cstheory
+0,microcontroller,7170,electronics
+0,quantum mechanics,21012,physics
+0,encryption,5194,security
+0,video,1707,video
+0,sql server,28598,dba
+0,options,1720,quant
+0,engine,2347,mechanics
+0,sharepoint online,15733,sharepoint
+0,automated testing,3228,sqa
+0,image processing,2638,dsp
+0,bitcoin core,3034,bitcoin
+0,syntax,845,linguistics
+0,human biology,2337,biology
+0,plotting,11768,mathematica
+0,cognitive psychology,1174,psychology
+0,algorithms,8749,cs
+0,organic chemistry,8225,chemistry
 0,expresso store,973,expressionengine
-0,recycling,182,sustainability
-0,ida,1576,reverseengineering
-0,cisco,3315,networkengineering
-0,ag.algebraic geometry,16544,mathoverflow.net
-0,orbital mechanics,1231,space
-0,star,783,astronomy
-0,arduino uno,7208,arduino
-0,neural networks,1623,ai
-0,smart home,227,iot
-0,quantum gate,545,quantumcomputing
-0,optimization,270,or
+0,recycling,184,sustainability
+0,ida,1617,reverseengineering
+0,cisco,3362,networkengineering
+0,ag.algebraic geometry,16931,mathoverflow.net
+0,orbital mechanics,1284,space
+0,star,805,astronomy
+0,arduino uno,7354,arduino
+0,neural networks,1757,ai
+0,smart home,232,iot
+0,quantum gate,634,quantumcomputing
+0,optimization,315,or
+0,density functional theory,202,mattermodeling

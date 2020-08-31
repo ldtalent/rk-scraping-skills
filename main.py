@@ -13,7 +13,7 @@ from add_stack_skill import add_skill_stack
 
 #ld_skills = get_skills()
 
-ld_skills = pd.read_csv("Final_Skill_Data.csv")
+ld_skills = pd.read_csv("Final_Skill_Data.csv", encoding="utf-8")
 
 main = ld_skills.copy()
 
