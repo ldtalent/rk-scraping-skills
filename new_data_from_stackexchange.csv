@@ -1,40 +1,42 @@
 ,name,count,skills
-0,unity,12773,gamedev
-0,r,23478,stats
-0,real analysis,112634,math
-0,qgis,29468,gis
-0,tikz pgf,26732,tex
-0,united states,11396,money
-0,usability,3260,ux
-0,plugins,9753,wordpress
-0,cc.complexity theory,2706,cstheory
-0,microcontroller,7170,electronics
-0,quantum mechanics,21012,physics
-0,encryption,5194,security
-0,video,1707,video
-0,sql server,28598,dba
-0,options,1720,quant
-0,engine,2347,mechanics
-0,sharepoint online,15733,sharepoint
-0,automated testing,3228,sqa
-0,image processing,2638,dsp
-0,bitcoin core,3034,bitcoin
+5,android,1296315,stackoverflow
+10,ios,639246,stackoverflow
+13,r,362331,stackoverflow
+0,unity,12780,gamedev
+0,real analysis,112708,math
+0,qgis,29492,gis
+0,tikz pgf,26745,tex
+0,united states,11408,money
+0,usability,3261,ux
+0,plugins,9766,wordpress
+0,cc.complexity theory,2707,cstheory
+0,microcontroller,7178,electronics
+0,quantum mechanics,21033,physics
+0,encryption,5196,security
+0,video,1708,video
+0,sql server,28613,dba
+0,options,1719,quant
+0,engine,2350,mechanics
+0,sharepoint online,15750,sharepoint
+0,automated testing,3232,sqa
+0,image processing,2639,dsp
+0,bitcoin core,3038,bitcoin
 0,syntax,845,linguistics
-0,human biology,2337,biology
-0,plotting,11768,mathematica
-0,cognitive psychology,1174,psychology
-0,algorithms,8749,cs
-0,organic chemistry,8225,chemistry
+0,human biology,2338,biology
+0,plotting,11773,mathematica
+0,cognitive psychology,1178,psychology
+0,algorithms,8754,cs
+0,organic chemistry,8229,chemistry
 0,expresso store,973,expressionengine
 0,recycling,184,sustainability
-0,ida,1617,reverseengineering
-0,cisco,3362,networkengineering
-0,ag.algebraic geometry,16931,mathoverflow.net
-0,orbital mechanics,1284,space
-0,star,805,astronomy
-0,arduino uno,7354,arduino
-0,neural networks,1757,ai
+0,ida,1619,reverseengineering
+0,cisco,3364,networkengineering
+0,ag.algebraic geometry,16945,mathoverflow.net
+0,orbital mechanics,1285,space
+0,star,804,astronomy
+0,arduino uno,7362,arduino
+0,neural networks,1762,ai
 0,smart home,232,iot
-0,quantum gate,634,quantumcomputing
-0,optimization,315,or
+0,quantum gate,639,quantumcomputing
+0,optimization,316,or
 0,density functional theory,202,mattermodeling

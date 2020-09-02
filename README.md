@@ -14,3 +14,7 @@
 - Final_skill_data.csv - final data for syncing with db
 
 Original Project Guidelines: https://docs.google.com/document/d/11q0MhsHCefDnb-XW9RbC9guZTrWtSmngQ-OFTQzCzMI/edit
+
+notes on filling:
+cutoff of 1 on all sites
+cutoff of 1 on stackoverflow
