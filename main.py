@@ -126,6 +126,6 @@ for colname,values in main.iteritems():
     category_skill[colname] = sorted(to_sort_list)
     
 
-main = pd.DataFrame(dict([ (k,pd.Series(v)) for k,v in category_skill.items() ]))
+main = pd.DataFrame(dict([ (k,pd.Series(v, dtype = pd.StringDtype())) for k,v in category_skill.items() ]))
 
 main.to_csv("Final_Skill_Data.csv",index=False)
