@@ -1,365 +1,365 @@
 ,name,count,skills
-5,android,1298793,stackoverflow
-10,ios,640178,stackoverflow
-13,r,364386,stackoverflow
-15,node.js,349925,stackoverflow
-16,arrays,341647,stackoverflow
-19,json,301407,stackoverflow
-21,sql server,292130,stackoverflow
-24,angularjs,261398,stackoverflow
-26,reactjs,245704,stackoverflow
+5,android,1298863,stackoverflow
+10,ios,640228,stackoverflow
+13,r,364476,stackoverflow
+15,node.js,349999,stackoverflow
+16,arrays,341684,stackoverflow
+19,json,301444,stackoverflow
+21,sql server,292154,stackoverflow
+24,angularjs,261402,stackoverflow
+26,reactjs,245804,stackoverflow
 31,iphone,220687,stackoverflow
-36,asp.net mvc,191548,stackoverflow
-39,database,171908,stackoverflow
-42,wpf,158537,stackoverflow
-43,string,156822,stackoverflow
+36,asp.net mvc,191557,stackoverflow
+39,database,171915,stackoverflow
+42,wpf,158536,stackoverflow
+43,string,156839,stackoverflow
 48,vb.net,131361,stackoverflow
-51,oracle,126288,stackoverflow
-53,multithreading,125343,stackoverflow
-54,postgresql,124188,stackoverflow
-56,list,106512,stackoverflow
-57,forms,103270,stackoverflow
-58,algorithm,102577,stackoverflow
-60,amazon web services,102136,stackoverflow
-61,image,101717,stackoverflow
-63,twitter bootstrap,99408,stackoverflow
-68,spring boot,90802,stackoverflow
-69,winforms,90273,stackoverflow
-70,performance,90015,stackoverflow
-72,apache,87874,stackoverflow
-73,function,87357,stackoverflow
+51,oracle,126307,stackoverflow
+53,multithreading,125354,stackoverflow
+54,postgresql,124214,stackoverflow
+56,list,106535,stackoverflow
+57,forms,103281,stackoverflow
+58,algorithm,102573,stackoverflow
+60,amazon web services,102179,stackoverflow
+61,image,101720,stackoverflow
+63,twitter bootstrap,99409,stackoverflow
+68,spring boot,90827,stackoverflow
+69,winforms,90275,stackoverflow
+70,performance,90021,stackoverflow
+72,apache,87862,stackoverflow
+73,function,87371,stackoverflow
 74,entity framework,85182,stackoverflow
-75,facebook,84771,stackoverflow
-76,powershell,84719,stackoverflow
-81,api,82801,stackoverflow
-84,linq,79499,stackoverflow
-85,shell,79016,stackoverflow
-87,dataframe,77208,stackoverflow
-88,qt,76859,stackoverflow
-89,swing,76617,stackoverflow
-91,loops,75283,stackoverflow
-92,csv,72444,stackoverflow
-93,unit testing,71765,stackoverflow
-94,file,71449,stackoverflow
-96,express,68798,stackoverflow
-97,.htaccess,68537,stackoverflow
-98,class,67390,stackoverflow
-99,codeigniter,67225,stackoverflow
-102,google chrome,64626,stackoverflow
-104,date,64193,stackoverflow
-105,sorting,64064,stackoverflow
-106,tsql,63791,stackoverflow
-107,google maps,63280,stackoverflow
-109,uitableview,62511,stackoverflow
-112,validation,60636,stackoverflow
-115,web services,59939,stackoverflow
+75,facebook,84768,stackoverflow
+76,powershell,84736,stackoverflow
+81,api,82810,stackoverflow
+84,linq,79503,stackoverflow
+85,shell,79028,stackoverflow
+87,dataframe,77242,stackoverflow
+88,qt,76861,stackoverflow
+89,swing,76630,stackoverflow
+91,loops,75292,stackoverflow
+92,csv,72448,stackoverflow
+93,unit testing,71775,stackoverflow
+94,file,71452,stackoverflow
+96,express,68806,stackoverflow
+97,.htaccess,68539,stackoverflow
+98,class,67392,stackoverflow
+99,codeigniter,67227,stackoverflow
+102,google chrome,64629,stackoverflow
+104,date,64201,stackoverflow
+105,sorting,64063,stackoverflow
+106,tsql,63802,stackoverflow
+107,google maps,63285,stackoverflow
+109,uitableview,62516,stackoverflow
+112,validation,60641,stackoverflow
+115,web services,59942,stackoverflow
 116,opencv,59398,stackoverflow
-118,dictionary,57473,stackoverflow
-119,xaml,56549,stackoverflow
-120,datetime,56494,stackoverflow
-121,android layout,55989,stackoverflow
-123,spring mvc,54496,stackoverflow
-124,email,53919,stackoverflow
-125,for loop,53845,stackoverflow
+118,dictionary,57482,stackoverflow
+119,xaml,56546,stackoverflow
+120,datetime,56501,stackoverflow
+121,android layout,55988,stackoverflow
+123,spring mvc,54494,stackoverflow
+124,email,53918,stackoverflow
+125,for loop,53848,stackoverflow
 127,oop,53604,stackoverflow
-129,object,52902,stackoverflow
+129,object,52906,stackoverflow
 131,ms access,52061,stackoverflow
-133,jsp,51292,stackoverflow
-134,asp.net core,51272,stackoverflow
-136,parsing,51117,stackoverflow
-137,ubuntu,50985,stackoverflow
-138,listview,50262,stackoverflow
-139,wcf,50111,stackoverflow
+133,asp.net core,51303,stackoverflow
+134,jsp,51295,stackoverflow
+136,parsing,51116,stackoverflow
+137,ubuntu,50972,stackoverflow
+138,listview,50264,stackoverflow
+139,wcf,50114,stackoverflow
 140,user interface,49886,stackoverflow
-141,if statement,48868,stackoverflow
-142,batch file,48761,stackoverflow
-144,pointers,48399,stackoverflow
-145,templates,47681,stackoverflow
-146,authentication,47298,stackoverflow
-148,variables,46784,stackoverflow
-149,elasticsearch,46518,stackoverflow
-150,delphi,46507,stackoverflow
-152,debugging,45632,stackoverflow
-153,google app engine,45259,stackoverflow
-157,pdf,43941,stackoverflow
-158,jpa,43709,stackoverflow
-159,nginx,43565,stackoverflow
-161,android fragments,42998,stackoverflow
-163,session,42501,stackoverflow
-167,generics,41949,stackoverflow
-168,asynchronous,41937,stackoverflow
-171,testing,40812,stackoverflow
-172,ionic framework,40696,stackoverflow
-173,selenium webdriver,40623,stackoverflow
-174,web,40613,stackoverflow
+141,if statement,48875,stackoverflow
+142,batch file,48762,stackoverflow
+144,pointers,48403,stackoverflow
+145,templates,47685,stackoverflow
+146,authentication,47303,stackoverflow
+148,variables,46791,stackoverflow
+149,elasticsearch,46527,stackoverflow
+150,delphi,46510,stackoverflow
+152,debugging,45638,stackoverflow
+153,google app engine,45260,stackoverflow
+157,pdf,43938,stackoverflow
+158,jpa,43713,stackoverflow
+159,nginx,43570,stackoverflow
+161,android fragments,43001,stackoverflow
+163,session,42502,stackoverflow
+167,generics,41952,stackoverflow
+168,asynchronous,41943,stackoverflow
+171,testing,40816,stackoverflow
+172,ionic framework,40703,stackoverflow
+173,selenium webdriver,40627,stackoverflow
+174,web,40615,stackoverflow
 175,tomcat,40424,stackoverflow
-176,github,40316,stackoverflow
-177,gradle,39976,stackoverflow
-178,animation,39467,stackoverflow
+176,github,40325,stackoverflow
+177,gradle,39981,stackoverflow
+178,animation,39470,stackoverflow
 179,jquery ui,39307,stackoverflow
-180,url,39300,stackoverflow
-182,curl,38802,stackoverflow
-183,internet explorer,38766,stackoverflow
-185,recursion,38227,stackoverflow
-189,inheritance,37279,stackoverflow
-190,exception,37147,stackoverflow
-193,join,36794,stackoverflow
-194,winapi,36735,stackoverflow
-195,redirect,36694,stackoverflow
-197,math,36648,stackoverflow
-199,firefox,36556,stackoverflow
-200,post,36519,stackoverflow
-203,image processing,36134,stackoverflow
-204,dom,36019,stackoverflow
-205,select,35633,stackoverflow
-206,intellij idea,35456,stackoverflow
-208,flash,35215,stackoverflow
-210,gcc,35139,stackoverflow
-211,button,35095,stackoverflow
+180,url,39303,stackoverflow
+182,curl,38804,stackoverflow
+183,internet explorer,38767,stackoverflow
+185,recursion,38232,stackoverflow
+189,inheritance,37283,stackoverflow
+190,exception,37152,stackoverflow
+193,join,36797,stackoverflow
+194,winapi,36738,stackoverflow
+196,redirect,36696,stackoverflow
+197,math,36646,stackoverflow
+199,firefox,36561,stackoverflow
+200,post,36521,stackoverflow
+203,image processing,36133,stackoverflow
+204,dom,36022,stackoverflow
+205,select,35634,stackoverflow
+206,intellij idea,35461,stackoverflow
+208,flash,35214,stackoverflow
+210,gcc,35141,stackoverflow
+211,button,35099,stackoverflow
 212,jsf,35066,stackoverflow
-213,logging,34858,stackoverflow
-215,iis,34681,stackoverflow
+213,logging,34857,stackoverflow
+215,iis,34682,stackoverflow
 216,events,34680,stackoverflow
 217,ipad,34649,stackoverflow
 218,cocoa touch,34614,stackoverflow
-219,npm,34534,stackoverflow
-220,matrix,34469,stackoverflow
-221,google apps script,34434,stackoverflow
-222,caching,34393,stackoverflow
-223,javafx,34232,stackoverflow
-224,tkinter,34223,stackoverflow
-225,asp.net web api,34151,stackoverflow
-226,facebook graph api,34121,stackoverflow
-227,search,33702,stackoverflow
-228,mongoose,33631,stackoverflow
-229,networking,33581,stackoverflow
-230,stored procedures,33443,stackoverflow
-231,xpath,33435,stackoverflow
-233,firebase realtime database,32700,stackoverflow
+219,npm,34541,stackoverflow
+220,matrix,34475,stackoverflow
+221,google apps script,34453,stackoverflow
+222,caching,34392,stackoverflow
+223,tkinter,34237,stackoverflow
+224,javafx,34228,stackoverflow
+225,asp.net web api,34154,stackoverflow
+226,facebook graph api,34120,stackoverflow
+227,search,33704,stackoverflow
+228,mongoose,33642,stackoverflow
+229,networking,33586,stackoverflow
+230,stored procedures,33448,stackoverflow
+231,xpath,33438,stackoverflow
+233,firebase realtime database,32706,stackoverflow
 234,servlets,32430,stackoverflow
-235,encryption,32299,stackoverflow
-236,canvas,32276,stackoverflow
-237,optimization,32256,stackoverflow
-238,audio,32168,stackoverflow
-239,web scraping,32044,stackoverflow
-240,django models,31641,stackoverflow
-241,memory,31561,stackoverflow
+235,encryption,32303,stackoverflow
+236,canvas,32275,stackoverflow
+237,optimization,32257,stackoverflow
+238,audio,32169,stackoverflow
+239,web scraping,32053,stackoverflow
+240,django models,31649,stackoverflow
+241,memory,31569,stackoverflow
 242,mod rewrite,31160,stackoverflow
-243,cakephp,31065,stackoverflow
-245,model view controller,30985,stackoverflow
+243,cakephp,31067,stackoverflow
+245,model view controller,30987,stackoverflow
 246,video,30943,stackoverflow
-247,arraylist,30792,stackoverflow
-248,cookies,30730,stackoverflow
-250,razor,30306,stackoverflow
-251,plot,30241,stackoverflow
-252,vector,30205,stackoverflow
+247,arraylist,30794,stackoverflow
+248,cookies,30728,stackoverflow
+250,razor,30308,stackoverflow
+251,plot,30244,stackoverflow
+252,vector,30209,stackoverflow
 253,multidimensional array,30169,stackoverflow
-254,jdbc,29959,stackoverflow
-255,serialization,29781,stackoverflow
-256,iframe,29746,stackoverflow
-257,android intent,29588,stackoverflow
-258,random,29449,stackoverflow
-259,google sheets,29442,stackoverflow
-261,grails,29237,stackoverflow
-262,jakarta ee,29193,stackoverflow
-263,design patterns,29078,stackoverflow
-264,input,28834,stackoverflow
+254,jdbc,29961,stackoverflow
+255,serialization,29782,stackoverflow
+256,iframe,29750,stackoverflow
+257,android intent,29590,stackoverflow
+258,google sheets,29456,stackoverflow
+259,random,29455,stackoverflow
+261,grails,29238,stackoverflow
+262,jakarta ee,29194,stackoverflow
+263,design patterns,29075,stackoverflow
+264,input,28840,stackoverflow
 265,visual c++,28722,stackoverflow
-266,meteor,28685,stackoverflow
-268,indexing,28107,stackoverflow
+266,meteor,28686,stackoverflow
+268,indexing,28111,stackoverflow
 269,android activity,27862,stackoverflow
-270,awk,27637,stackoverflow
-271,text,27503,stackoverflow
-272,activerecord,27417,stackoverflow
+270,awk,27639,stackoverflow
+271,text,27506,stackoverflow
+272,activerecord,27419,stackoverflow
 273,silverlight,27395,stackoverflow
-274,core data,27338,stackoverflow
-275,checkbox,27303,stackoverflow
-276,data structures,27176,stackoverflow
-277,mobile,27090,stackoverflow
-278,visual studio code,27054,stackoverflow
-279,mvvm,26916,stackoverflow
-280,xamarin.forms,26898,stackoverflow
-282,methods,26548,stackoverflow
-285,svn,26342,stackoverflow
-286,mysqli,26271,stackoverflow
-287,gridview,26070,stackoverflow
-288,installation,26055,stackoverflow
-289,vim,25947,stackoverflow
-290,groovy,25761,stackoverflow
-293,file upload,25361,stackoverflow
-295,boost,25256,stackoverflow
-296,struct,25187,stackoverflow
-297,time,25150,stackoverflow
+274,core data,27341,stackoverflow
+275,checkbox,27304,stackoverflow
+276,data structures,27183,stackoverflow
+277,mobile,27092,stackoverflow
+278,visual studio code,27072,stackoverflow
+279,mvvm,26919,stackoverflow
+280,xamarin.forms,26907,stackoverflow
+282,methods,26549,stackoverflow
+285,svn,26344,stackoverflow
+286,mysqli,26274,stackoverflow
+287,gridview,26071,stackoverflow
+288,installation,26053,stackoverflow
+289,vim,25951,stackoverflow
+290,groovy,25765,stackoverflow
+293,file upload,25360,stackoverflow
+295,boost,25257,stackoverflow
+296,struct,25191,stackoverflow
+297,time,25153,stackoverflow
 298,memory management,25087,stackoverflow
-299,google cloud platform,24980,stackoverflow
-300,lambda,24931,stackoverflow
-301,ssh,24886,stackoverflow
-302,layout,24848,stackoverflow
-303,sed,24625,stackoverflow
-305,android recyclerview,24588,stackoverflow
-306,dynamic,24581,stackoverflow
+299,google cloud platform,24993,stackoverflow
+300,lambda,24934,stackoverflow
+301,ssh,24881,stackoverflow
+302,layout,24849,stackoverflow
+303,sed,24624,stackoverflow
+305,android recyclerview,24590,stackoverflow
+306,dynamic,24583,stackoverflow
 307,apache flex,24128,stackoverflow
-308,extjs,24113,stackoverflow
-309,filter,24092,stackoverflow
-310,google chrome extension,24063,stackoverflow
-311,graph,23948,stackoverflow
-312,browser,23922,stackoverflow
-313,junit,23751,stackoverflow
+308,extjs,24115,stackoverflow
+309,filter,24094,stackoverflow
+310,google chrome extension,24067,stackoverflow
+311,graph,23952,stackoverflow
+312,browser,23925,stackoverflow
+313,junit,23755,stackoverflow
 314,dll,23716,stackoverflow
-315,plsql,23689,stackoverflow
-317,spring security,23578,stackoverflow
-318,reporting services,23554,stackoverflow
+315,plsql,23693,stackoverflow
+317,spring security,23582,stackoverflow
+318,reporting services,23559,stackoverflow
 319,twitter,23485,stackoverflow
-320,replace,23412,stackoverflow
-321,netbeans,23344,stackoverflow
-323,plugins,23102,stackoverflow
-324,pdo,23047,stackoverflow
-325,charts,22920,stackoverflow
+320,replace,23414,stackoverflow
+321,netbeans,23342,stackoverflow
+323,plugins,23100,stackoverflow
+324,pdo,23051,stackoverflow
+325,charts,22919,stackoverflow
 326,jquery mobile,22804,stackoverflow
 327,reflection,22785,stackoverflow
 328,unicode,22752,stackoverflow
-329,highcharts,22716,stackoverflow
-330,database design,22415,stackoverflow
-331,cmd,22347,stackoverflow
-332,types,22287,stackoverflow
-333,pyspark,22235,stackoverflow
-334,beautifulsoup,22224,stackoverflow
-336,dependency injection,22141,stackoverflow
-337,foreach,22005,stackoverflow
-338,https,21906,stackoverflow
-339,data binding,21819,stackoverflow
-340,encoding,21743,stackoverflow
-341,websocket,21689,stackoverflow
-342,google cloud firestore,21675,stackoverflow
-343,hash,21651,stackoverflow
-344,import,21623,stackoverflow
-345,service,21611,stackoverflow
-346,excel formula,21581,stackoverflow
-347,collections,21446,stackoverflow
-348,deployment,21426,stackoverflow
-350,error handling,21233,stackoverflow
-351,makefile,21218,stackoverflow
-353,command line,21067,stackoverflow
-354,scikit learn,21001,stackoverflow
-355,while loop,20918,stackoverflow
-357,web applications,20803,stackoverflow
+329,highcharts,22718,stackoverflow
+330,database design,22416,stackoverflow
+331,cmd,22350,stackoverflow
+332,types,22292,stackoverflow
+333,pyspark,22238,stackoverflow
+334,beautifulsoup,22229,stackoverflow
+336,dependency injection,22140,stackoverflow
+337,foreach,22003,stackoverflow
+338,https,21908,stackoverflow
+339,data binding,21820,stackoverflow
+340,encoding,21748,stackoverflow
+341,google cloud firestore,21690,stackoverflow
+342,websocket,21686,stackoverflow
+343,hash,21650,stackoverflow
+344,import,21626,stackoverflow
+345,service,21612,stackoverflow
+346,excel formula,21584,stackoverflow
+347,collections,21445,stackoverflow
+348,deployment,21430,stackoverflow
+350,error handling,21231,stackoverflow
+351,makefile,21219,stackoverflow
+353,command line,21071,stackoverflow
+354,scikit learn,21005,stackoverflow
+355,while loop,20925,stackoverflow
+358,web applications,20807,stackoverflow
 359,gwt,20728,stackoverflow
 360,ffmpeg,20717,stackoverflow
-361,backbone.js,20649,stackoverflow
-362,printing,20627,stackoverflow
-363,eloquent,20514,stackoverflow
-364,dplyr,20514,stackoverflow
-365,server,20492,stackoverflow
+361,backbone.js,20650,stackoverflow
+362,printing,20628,stackoverflow
+363,dplyr,20528,stackoverflow
+364,eloquent,20513,stackoverflow
+365,server,20496,stackoverflow
 366,zend framework,20440,stackoverflow
-367,group by,20357,stackoverflow
-368,webview,20351,stackoverflow
+367,group by,20360,stackoverflow
+368,webview,20352,stackoverflow
 370,html table,20327,stackoverflow
-371,tcp,20297,stackoverflow
-373,drop down menu,20087,stackoverflow
-374,file io,20068,stackoverflow
-375,knockout.js,20001,stackoverflow
-376,django rest framework,19977,stackoverflow
-377,shiny,19974,stackoverflow
+371,tcp,20299,stackoverflow
+373,drop down menu,20089,stackoverflow
+374,file io,20070,stackoverflow
+375,knockout.js,20004,stackoverflow
+376,django rest framework,19980,stackoverflow
+377,shiny,19978,stackoverflow
 378,merge,19949,stackoverflow
-380,cmake,19762,stackoverflow
+380,cmake,19767,stackoverflow
 384,view,19619,stackoverflow
-386,scroll,19516,stackoverflow
+386,scroll,19518,stackoverflow
 387,parse platform,19482,stackoverflow
-388,uwp,19410,stackoverflow
-389,datatable,19349,stackoverflow
-390,build,19341,stackoverflow
-391,solr,19335,stackoverflow
-392,terminal,19333,stackoverflow
-393,split,19265,stackoverflow
-394,concurrency,19226,stackoverflow
-395,hive,19203,stackoverflow
-397,paypal,19183,stackoverflow
-398,datagridview,19006,stackoverflow
-399,syntax,18953,stackoverflow
-403,enums,18792,stackoverflow
+388,uwp,19409,stackoverflow
+389,datatable,19352,stackoverflow
+390,build,19345,stackoverflow
+391,solr,19339,stackoverflow
+392,terminal,19336,stackoverflow
+393,split,19264,stackoverflow
+394,concurrency,19225,stackoverflow
+395,hive,19205,stackoverflow
+397,paypal,19185,stackoverflow
+398,datagridview,19007,stackoverflow
+399,syntax,18955,stackoverflow
+403,enums,18794,stackoverflow
 405,nhibernate,18752,stackoverflow
-406,parameters,18711,stackoverflow
-408,module,18621,stackoverflow
+406,parameters,18715,stackoverflow
+408,module,18627,stackoverflow
 409,primefaces,18610,stackoverflow
-410,graphics,18565,stackoverflow
-411,fonts,18547,stackoverflow
+410,graphics,18562,stackoverflow
+411,fonts,18546,stackoverflow
 412,login,18468,stackoverflow
-413,colors,18432,stackoverflow
-417,constructor,18339,stackoverflow
-418,uiview,18313,stackoverflow
-419,promise,18271,stackoverflow
-420,outlook,18263,stackoverflow
-421,oauth,18246,stackoverflow
-422,memory leaks,18234,stackoverflow
+413,colors,18428,stackoverflow
+416,constructor,18341,stackoverflow
+418,uiview,18314,stackoverflow
+419,promise,18270,stackoverflow
+420,outlook,18267,stackoverflow
+421,oauth,18247,stackoverflow
+422,memory leaks,18236,stackoverflow
 426,vbscript,18058,stackoverflow
 427,timer,17858,stackoverflow
-428,automation,17727,stackoverflow
-429,async await,17605,stackoverflow
-430,interface,17573,stackoverflow
-432,parallel processing,17534,stackoverflow
-433,lua,17525,stackoverflow
-434,ms word,17462,stackoverflow
-435,jar,17461,stackoverflow
-436,angularjs directive,17427,stackoverflow
-437,count,17382,stackoverflow
-438,casting,17376,stackoverflow
+428,automation,17730,stackoverflow
+429,async await,17612,stackoverflow
+430,interface,17575,stackoverflow
+432,parallel processing,17535,stackoverflow
+433,lua,17522,stackoverflow
+434,jar,17460,stackoverflow
+435,ms word,17460,stackoverflow
+436,angularjs directive,17428,stackoverflow
+437,count,17388,stackoverflow
+438,casting,17379,stackoverflow
 439,proxy,17271,stackoverflow
-440,orm,17257,stackoverflow
-441,docker compose,17252,stackoverflow
-444,push notification,17121,stackoverflow
-445,directory,16944,stackoverflow
-446,playframework,16931,stackoverflow
-447,datatables,16909,stackoverflow
+440,docker compose,17261,stackoverflow
+441,orm,17257,stackoverflow
+444,push notification,17120,stackoverflow
+445,directory,16946,stackoverflow
+446,playframework,16932,stackoverflow
+447,datatables,16913,stackoverflow
 448,sqlalchemy,16896,stackoverflow
-449,emacs,16877,stackoverflow
-450,hyperlink,16865,stackoverflow
-451,combobox,16837,stackoverflow
-452,azure devops,16823,stackoverflow
-453,neural network,16797,stackoverflow
-454,compiler errors,16776,stackoverflow
-455,scipy,16750,stackoverflow
-457,yii,16623,stackoverflow
-460,properties,16512,stackoverflow
-461,process,16412,stackoverflow
-462,react redux,16412,stackoverflow
-463,triggers,16408,stackoverflow
+449,emacs,16878,stackoverflow
+450,hyperlink,16867,stackoverflow
+451,combobox,16836,stackoverflow
+452,azure devops,16828,stackoverflow
+453,neural network,16801,stackoverflow
+454,compiler errors,16780,stackoverflow
+455,scipy,16752,stackoverflow
+457,yii,16624,stackoverflow
+460,properties,16511,stackoverflow
+461,react redux,16418,stackoverflow
+462,process,16412,stackoverflow
+463,triggers,16411,stackoverflow
 464,doctrine orm,16400,stackoverflow
-465,download,16381,stackoverflow
-466,model,16378,stackoverflow
+465,model,16381,stackoverflow
+466,download,16379,stackoverflow
 469,xamarin.android,16266,stackoverflow
-470,linked list,16251,stackoverflow
+470,linked list,16257,stackoverflow
 471,configuration,16209,stackoverflow
-472,functional programming,16182,stackoverflow
-473,kendo ui,16069,stackoverflow
-474,callback,15990,stackoverflow
+472,functional programming,16185,stackoverflow
+473,kendo ui,16070,stackoverflow
+474,callback,15991,stackoverflow
 475,uiviewcontroller,15984,stackoverflow
-476,path,15973,stackoverflow
-477,django forms,15965,stackoverflow
-478,version control,15943,stackoverflow
-480,flexbox,15885,stackoverflow
-481,io,15847,stackoverflow
-482,binding,15844,stackoverflow
-483,safari,15789,stackoverflow
-484,django views,15736,stackoverflow
-486,scope,15703,stackoverflow
-487,pip,15640,stackoverflow
-488,scripting,15558,stackoverflow
+476,path,15972,stackoverflow
+477,django forms,15968,stackoverflow
+478,version control,15944,stackoverflow
+480,flexbox,15887,stackoverflow
+481,io,15852,stackoverflow
+482,binding,15845,stackoverflow
+483,safari,15790,stackoverflow
+484,django views,15743,stackoverflow
+486,scope,15704,stackoverflow
+487,pip,15644,stackoverflow
+488,scripting,15560,stackoverflow
 489,android listview,15495,stackoverflow
 490,bluetooth,15476,stackoverflow
-491,url rewriting,15455,stackoverflow
+491,url rewriting,15457,stackoverflow
 492,responsive design,15451,stackoverflow
-493,dns,15445,stackoverflow
-495,phpmyadmin,15357,stackoverflow
+493,dns,15435,stackoverflow
+495,phpmyadmin,15358,stackoverflow
 496,autocomplete,15356,stackoverflow
 497,cron,15272,stackoverflow
-498,nullpointerexception,15270,stackoverflow
-499,pagination,15207,stackoverflow
+498,nullpointerexception,15272,stackoverflow
+499,pagination,15211,stackoverflow
 6,domain name system,11093,serverfault
-7,centos,10065,serverfault
+7,centos,10068,serverfault
 8,active directory,9318,serverfault
 14,debian,6701,serverfault
 19,iptables,5769,serverfault
-20,postfix,5658,serverfault
+20,postfix,5659,serverfault
 26,vpn,4517,serverfault
 27,firewall,3817,serverfault
 29,backup,3789,serverfault
@@ -375,32 +375,32 @@
 46,smtp,2901,serverfault
 47,openvpn,2851,serverfault
 48,ssl certificate,2842,serverfault
-8,hard drive,13488,superuser
-9,wireless networking,13427,superuser
-11,boot,10798,superuser
+8,hard drive,13494,superuser
+9,wireless networking,13429,superuser
+11,boot,10799,superuser
 15,router,9369,superuser
-16,windows xp,9184,superuser
-18,mac,8768,superuser
-20,laptop,7519,superuser
-21,usb,7514,superuser
+16,windows xp,9185,superuser
+18,mac,8771,superuser
+20,laptop,7520,superuser
+21,usb,7516,superuser
 23,worksheet function,6543,superuser
-24,microsoft word,6407,superuser
-25,partitioning,6401,superuser
-28,drivers,5654,superuser
-33,ssd,5167,superuser
-35,microsoft outlook,4862,superuser
+24,microsoft word,6409,superuser
+25,partitioning,6403,superuser
+28,drivers,5655,superuser
+33,ssd,5168,superuser
+35,microsoft outlook,4864,superuser
 36,keyboard,4826,superuser
-37,virtual machine,4815,superuser
-40,graphics card,4720,superuser
-41,display,4618,superuser
-44,multiple monitors,4477,superuser
-46,cpu,4377,superuser
-47,keyboard shortcuts,4364,superuser
+37,virtual machine,4816,superuser
+40,graphics card,4722,superuser
+41,display,4620,superuser
+44,multiple monitors,4478,superuser
+46,cpu,4376,superuser
+47,keyboard shortcuts,4366,superuser
 49,motherboard,4151,superuser
 1,google,3270,webmasters
 3,google search console,2451,webmasters
 4,domains,2125,webmasters
-5,google search,1650,webmasters
+5,google search,1651,webmasters
 6,htaccess,1503,webmasters
 8,redirects,1459,webmasters
 17,googlebot,791,webmasters
@@ -412,11 +412,11 @@
 24,subdomain,711,webmasters
 25,google adsense,709,webmasters
 26,robots.txt,656,webmasters
-28,duplicate content,641,webmasters
-29,analytics,640,webmasters
+28,analytics,641,webmasters
+29,duplicate content,641,webmasters
 31,images,593,webmasters
 32,schema.org,568,webmasters
-34,links,549,webmasters
+34,links,550,webmasters
 36,canonical url,520,webmasters
 37,keywords,504,webmasters
 38,google index,483,webmasters
@@ -426,18 +426,18 @@
 45,domain registration,407,webmasters
 46,website design,404,webmasters
 49,ranking,377,webmasters
-0,unity,12833,gamedev
+0,unity,12834,gamedev
 6,xna,3074,gamedev
-7,libgdx,2252,gamedev
+7,libgdx,2253,gamedev
 8,collision detection,2231,gamedev
 10,physics,2042,gamedev
 12,mathematics,1695,gamedev
 13,shaders,1687,gamedev
-14,game design,1515,gamedev
+14,game design,1516,gamedev
 15,textures,1388,gamedev
 18,architecture,1270,gamedev
 19,rendering,1118,gamedev
-20,camera,1048,gamedev
+20,camera,1047,gamedev
 22,sprites,1022,gamedev
 23,directx,1011,gamedev
 25,rotation,967,gamedev
@@ -455,117 +455,117 @@
 44,hlsl,580,gamedev
 45,software engineering,560,gamedev
 48,tiles,529,gamedev
-1,regression,22257,stats
+1,regression,22263,stats
 3,time series,11303,stats
-4,probability,9193,stats
-5,hypothesis testing,7628,stats
-6,distributions,7355,stats
-7,self study,6871,stats
-8,neural networks,6106,stats
-9,logistic,6076,stats
+4,probability,9198,stats
+5,hypothesis testing,7630,stats
+6,distributions,7358,stats
+7,self study,6872,stats
+8,neural networks,6107,stats
+9,logistic,6077,stats
 10,bayesian,6045,stats
 11,classification,5522,stats
-12,mathematical statistics,5499,stats
-13,correlation,5040,stats
-14,statistical significance,4982,stats
-15,normal distribution,4628,stats
+12,mathematical statistics,5502,stats
+13,correlation,5041,stats
+14,statistical significance,4987,stats
+15,normal distribution,4630,stats
 16,multiple regression,4325,stats
-17,mixed model,4303,stats
-18,anova,4292,stats
-19,clustering,3490,stats
+17,mixed model,4305,stats
+18,anova,4293,stats
+19,clustering,3492,stats
 20,confidence interval,3460,stats
-21,generalized linear model,3417,stats
+21,generalized linear model,3418,stats
 23,variance,3188,stats
 24,forecasting,3088,stats
 25,categorical data,2903,stats
 26,pca,2837,stats
-27,cross validation,2810,stats
-28,t test,2769,stats
-29,estimation,2695,stats
-31,maximum likelihood,2528,stats
+27,cross validation,2812,stats
+28,t test,2770,stats
+29,estimation,2696,stats
+31,maximum likelihood,2529,stats
 32,sampling,2519,stats
 34,chi squared,2359,stats
-35,arima,2316,stats
+35,arima,2317,stats
 36,predictive models,2204,stats
 37,mean,2182,stats
 39,modeling,2159,stats
 40,survival,2122,stats
-41,p value,2104,stats
+41,p value,2105,stats
 42,repeated measures,2095,stats
-43,multivariate analysis,2069,stats
+43,multivariate analysis,2070,stats
 44,svm,2058,stats
 45,least squares,2055,stats
-46,inference,2053,stats
+46,inference,2054,stats
 47,references,2015,stats
 48,random forest,1981,stats
-49,feature selection,1967,stats
-0,real analysis,113178,math
-1,calculus,107889,math
-2,linear algebra,100316,math
-4,abstract algebra,68698,math
-5,integration,57600,math
-6,sequences and series,52337,math
-7,combinatorics,45486,math
-8,general topology,44621,math
-9,matrices,44286,math
-10,complex analysis,40855,math
-11,functional analysis,39264,math
-12,group theory,39070,math
-13,geometry,38896,math
-14,algebra precalculus,38164,math
-15,ordinary differential equations,35318,math
-16,number theory,34481,math
-17,limits,34256,math
-18,analysis,32922,math
-19,probability theory,32842,math
-20,elementary number theory,30552,math
-21,measure theory,29281,math
-22,statistics,28923,math
-23,multivariable calculus,27654,math
-24,functions,26678,math
-25,discrete mathematics,26341,math
-26,derivatives,25373,math
-27,differential geometry,24025,math
+49,feature selection,1969,stats
+0,real analysis,113214,math
+1,calculus,107906,math
+2,linear algebra,100335,math
+4,abstract algebra,68704,math
+5,integration,57612,math
+6,sequences and series,52350,math
+7,combinatorics,45493,math
+8,general topology,44637,math
+9,matrices,44294,math
+10,complex analysis,40864,math
+11,functional analysis,39268,math
+12,group theory,39074,math
+13,geometry,38905,math
+14,algebra precalculus,38173,math
+15,ordinary differential equations,35321,math
+16,number theory,34479,math
+17,limits,34262,math
+18,analysis,32924,math
+19,probability theory,32848,math
+20,elementary number theory,30557,math
+21,measure theory,29287,math
+22,statistics,28931,math
+23,multivariable calculus,27658,math
+24,functions,26681,math
+25,discrete mathematics,26339,math
+26,derivatives,25383,math
+27,differential geometry,24030,math
 28,trigonometry,23967,math
 29,proof verification,23409,math
-30,inequality,23120,math
-31,elementary set theory,23105,math
-32,algebraic geometry,21857,math
-33,probability distributions,21574,math
-34,logic,21364,math
-35,polynomials,21103,math
-36,graph theory,18885,math
-37,convergence divergence,17472,math
-38,partial differential equations,17092,math
-39,ring theory,17065,math
+30,inequality,23125,math
+31,elementary set theory,23113,math
+32,algebraic geometry,21858,math
+33,probability distributions,21581,math
+34,logic,21369,math
+35,polynomials,21107,math
+36,graph theory,18888,math
+37,convergence divergence,17480,math
+38,partial differential equations,17100,math
+39,ring theory,17063,math
 41,reference request,16640,math
-42,algebraic topology,16095,math
-43,definite integrals,15804,math
-44,complex numbers,15165,math
-45,vector spaces,14254,math
-46,summation,13741,math
-47,continuity,12920,math
-48,commutative algebra,12855,math
-49,proof writing,12344,math
-0,qgis,29652,gis
-1,arcgis desktop,19251,gis
-2,arcpy,9212,gis
-5,raster,7550,gis
-6,coordinate system,6430,gis
-7,arcmap,5905,gis
-8,pyqgis,5371,gis
+42,algebraic topology,16101,math
+43,definite integrals,15808,math
+44,complex numbers,15169,math
+45,vector spaces,14259,math
+46,summation,13742,math
+47,continuity,12925,math
+48,commutative algebra,12857,math
+49,proof writing,12354,math
+0,qgis,29660,gis
+1,arcgis desktop,19255,gis
+2,arcpy,9215,gis
+5,raster,7551,gis
+6,coordinate system,6436,gis
+7,arcmap,5909,gis
+8,pyqgis,5372,gis
 9,geoserver,4867,gis
-10,gdal,4717,gis
-11,shapefile,4574,gis
+10,gdal,4718,gis
+11,shapefile,4576,gis
 14,leaflet,3340,gis
 17,polygon,3228,gis
-22,openlayers,2881,gis
+22,openlayers,2882,gis
 23,openstreetmap,2735,gis
 24,arcgis server,2626,gis
-25,google earth engine,2605,gis
+25,google earth engine,2609,gis
 26,arcobjects,2425,gis
 27,qgis plugins,2333,gis
-28,geojson,2047,gis
+28,geojson,2048,gis
 29,modelbuilder,1997,gis
 30,arcgis javascript api,1960,gis
 31,grass,1936,gis
@@ -573,90 +573,90 @@
 33,field calculator,1854,gis
 34,labeling,1765,gis
 36,layers,1657,gis
-37,point,1651,gis
-38,symbology,1631,gis
+37,point,1652,gis
+38,symbology,1632,gis
 39,dem,1600,gis
-40,geotiff tiff,1588,gis
-41,data,1587,gis
-42,attribute table,1521,gis
-44,arcgis pro,1481,gis
+40,geotiff tiff,1589,gis
+41,data,1586,gis
+42,attribute table,1522,gis
+44,arcgis pro,1485,gis
 46,carto,1428,gis
 47,line,1415,gis
-48,spatial analyst,1390,gis
-49,enterprise geodatabase,1330,gis
-0,tikz pgf,26847,tex
-1,tables,13666,tex
-2,beamer,9176,tex
-3,pgfplots,7840,tex
+48,spatial analyst,1391,gis
+49,enterprise geodatabase,1331,gis
+0,tikz pgf,26852,tex
+1,tables,13668,tex
+2,beamer,9177,tex
+3,pgfplots,7842,tex
 4,math mode,7818,tex
 5,biblatex,7109,tex
-7,macros,6576,tex
-8,spacing,6559,tex
+7,macros,6577,tex
+8,spacing,6561,tex
 10,table of contents,5715,tex
 11,bibliographies,5627,tex
 12,floats,5061,tex
-13,bibtex,4978,tex
-14,equations,4702,tex
+13,bibtex,4980,tex
+14,equations,4703,tex
 15,horizontal alignment,4687,tex
 16,sectioning,4599,tex
 17,xetex,4469,tex
-18,errors,4434,tex
-19,pdftex,4298,tex
-20,formatting,4296,tex
-21,hyperref,3890,tex
+18,errors,4436,tex
+19,pdftex,4299,tex
+20,formatting,4298,tex
+21,hyperref,3891,tex
 22,cross referencing,3636,tex
 23,symbols,3539,tex
 24,header footer,3383,tex
-25,color,3378,tex
-26,vertical alignment,3073,tex
+25,color,3379,tex
+26,vertical alignment,3074,tex
 27,numbering,3055,tex
-28,captions,3039,tex
-29,align,3012,tex
+28,captions,3040,tex
+29,align,3013,tex
 30,listings,2982,tex
-31,luatex,2927,tex
-32,citing,2802,tex
-33,amsmath,2670,tex
+31,luatex,2929,tex
+32,citing,2803,tex
+33,amsmath,2671,tex
 34,lyx,2667,tex
 35,packages,2667,tex
 36,lists,2482,tex
 37,environments,2463,tex
-38,positioning,2443,tex
+38,positioning,2444,tex
 39,diagrams,2402,tex
 40,line breaking,2365,tex
 41,footnotes,2314,tex
-42,margins,2197,tex
+42,margins,2198,tex
 44,miktex,2129,tex
 45,longtable,1925,tex
 46,page breaking,1903,tex
 47,enumerate,1880,tex
 48,koma script,1869,tex
 49,chapters,1857,tex
-6,dual boot,15490,askubuntu
-9,apt,13969,askubuntu
-12,wireless,11688,askubuntu
+6,dual boot,15487,askubuntu
+9,apt,13971,askubuntu
+12,wireless,11689,askubuntu
 14,nvidia,10006,askubuntu
-17,gnome,9074,askubuntu
-18,package management,8553,askubuntu
-19,system installation,8355,askubuntu
-20,software installation,7891,askubuntu
-21,upgrade,7889,askubuntu
-23,sound,7511,askubuntu
+17,gnome,9077,askubuntu
+18,package management,8554,askubuntu
+19,system installation,8360,askubuntu
+20,software installation,7892,askubuntu
+21,upgrade,7888,askubuntu
+23,sound,7510,askubuntu
 25,kernel,6551,askubuntu
-27,mount,5980,askubuntu
-28,scripts,5741,askubuntu
-29,updates,5697,askubuntu
-36,xubuntu,4762,askubuntu
-37,kubuntu,4626,askubuntu
-39,uefi,4506,askubuntu
+27,mount,5981,askubuntu
+28,scripts,5739,askubuntu
+29,updates,5698,askubuntu
+36,xubuntu,4763,askubuntu
+37,kubuntu,4628,askubuntu
+39,uefi,4505,askubuntu
 40,lubuntu,4462,askubuntu
-44,shortcut keys,4027,askubuntu
-48,xorg,3861,askubuntu
+44,shortcut keys,4028,askubuntu
+48,xorg,3862,askubuntu
 49,nautilus,3834,askubuntu
-0,united states,11442,money
+0,united states,11445,money
 1,taxes,4496,money
-2,stocks,3025,money
+2,stocks,3027,money
 3,income tax,2792,money
-4,investing,2724,money
+4,investing,2725,money
 5,united kingdom,1716,money
 6,credit card,1472,money
 7,mortgage,1371,money
@@ -668,7 +668,7 @@
 14,options,864,money
 15,tax deduction,848,money
 16,trading,839,money
-17,credit score,779,money
+17,credit score,780,money
 18,stock markets,726,money
 19,etf,715,money
 20,ira,661,money
@@ -677,19 +677,19 @@
 23,bonds,590,money
 24,roth ira,573,money
 25,retirement,572,money
-26,capital gains tax,569,money
-27,irs,568,money
+26,capital gains tax,570,money
+27,irs,569,money
 28,financial literacy,567,money
 29,bank account,550,money
 30,stock analysis,503,money
-31,foreign exchange,500,money
+31,foreign exchange,501,money
 32,interest rate,475,money
 33,car,461,money
 34,credit,459,money
 35,dividends,457,money
-36,non resident,447,money
+36,non resident,448,money
 37,calculation,446,money
-38,scams,434,money
+38,scams,435,money
 39,small business,432,money
 40,debt,430,money
 41,interest,405,money
@@ -697,19 +697,19 @@
 43,stock exchanges,394,money
 44,money transfer,390,money
 45,rental property,385,money
-46,accounting,383,money
+46,accounting,384,money
 47,index fund,379,money
 48,student loan,379,money
 49,limited liability company,355,money
 0,usability,3262,ux
-3,gui design,2533,ux
+3,gui design,2534,ux
 6,user behavior,1539,ux
 7,navigation,1512,ux
 8,buttons,1299,ux
 9,user expectation,1219,ux
 10,web app,1038,ux
 15,user research,755,ux
-16,design,744,ux
+16,design,745,ux
 18,icons,724,ux
 21,mobile application,690,ux
 22,accessibility,659,ux
@@ -736,38 +736,38 @@
 7,text processing,6825,unix
 13,files,4291,unix
 14,grep,4140,unix
-17,arch linux,3672,unix
-18,fedora,3582,unix
+17,arch linux,3671,unix
+18,fedora,3581,unix
 19,linux mint,3505,unix
 21,rhel,3242,unix
 22,systemd,3221,unix
 23,filesystems,3217,unix
-24,find,2873,unix
-28,linux kernel,2727,unix
-33,partition,2195,unix
+24,find,2874,unix
+28,linux kernel,2728,unix
+33,partition,2196,unix
 34,regular expression,2195,unix
-36,wifi,2167,unix
+36,wifi,2168,unix
 38,zsh,2083,unix
 39,sudo,1963,unix
 40,osx,1939,unix
 44,kali linux,1854,unix
 1,custom post types,9537,wordpress
-3,plugin development,5717,wordpress
+3,plugin development,5718,wordpress
 4,posts,5538,wordpress
 5,wp query,5146,wordpress
-7,customization,4877,wordpress
-8,categories,4524,wordpress
+7,customization,4876,wordpress
+8,categories,4525,wordpress
 9,theme development,4126,wordpress
 10,custom taxonomy,4119,wordpress
 12,custom field,3465,wordpress
 14,loop,3117,wordpress
 15,menus,3033,wordpress
 16,permalinks,2906,wordpress
-17,multisite,2859,wordpress
-18,themes,2723,wordpress
-19,filters,2683,wordpress
+17,multisite,2860,wordpress
+18,themes,2722,wordpress
+19,filters,2684,wordpress
 21,shortcode,2487,wordpress
-23,pages,2389,wordpress
+23,pages,2388,wordpress
 27,wp admin,2043,wordpress
 28,hooks,2003,wordpress
 29,widgets,2003,wordpress
@@ -785,13 +785,13 @@
 49,advanced custom fields,1290,wordpress
 0,cc.complexity theory,2711,cstheory
 1,ds.algorithms,1659,cstheory
-4,graph algorithms,894,cstheory
+4,graph algorithms,895,cstheory
 5,co.combinatorics,600,cstheory
 6,np hardness,598,cstheory
 7,complexity classes,568,cstheory
 8,lo.logic,474,cstheory
-9,approximation algorithms,423,cstheory
-10,fl.formal languages,387,cstheory
+9,approximation algorithms,424,cstheory
+10,fl.formal languages,386,cstheory
 11,soft question,379,cstheory
 14,automata theory,353,cstheory
 15,computability,348,cstheory
@@ -823,7 +823,7 @@
 44,quantum information,117,cstheory
 46,communication complexity,114,cstheory
 47,np,111,cstheory
-48,regular language,110,cstheory
+48,regular language,109,cstheory
 49,planar graphs,106,cstheory
 4,object oriented,3001,softwareengineering
 7,algorithms,2070,softwareengineering
@@ -842,110 +842,110 @@
 46,code quality,612,softwareengineering
 48,tdd,608,softwareengineering
 49,naming,582,softwareengineering
-0,microcontroller,7206,electronics
-2,power supply,6779,electronics
+0,microcontroller,7207,electronics
+2,power supply,6780,electronics
 3,voltage,5784,electronics
-4,operational amplifier,5546,electronics
-5,transistors,5093,electronics
+4,operational amplifier,5547,electronics
+5,transistors,5094,electronics
 6,power,5067,electronics
 7,led,4739,electronics
-8,batteries,4456,electronics
+8,batteries,4458,electronics
 9,mosfet,4439,electronics
 10,capacitor,4428,electronics
-11,circuit analysis,4315,electronics
+11,circuit analysis,4314,electronics
 12,pcb,4066,electronics
-13,current,3938,electronics
+13,current,3939,electronics
 14,amplifier,3551,electronics
-15,digital logic,3382,electronics
-16,resistors,3207,electronics
-17,rf,2730,electronics
+15,digital logic,3383,electronics
+16,resistors,3208,electronics
+17,rf,2731,electronics
 18,pcb design,2671,electronics
 20,motor,2573,electronics
 21,diodes,2557,electronics
-22,switches,2537,electronics
+22,switches,2538,electronics
 23,transformer,2516,electronics
 24,voltage regulator,2495,electronics
 25,pic,2492,electronics
-26,ac,2462,electronics
+26,ac,2461,electronics
 27,sensor,2447,electronics
-29,analog,2382,electronics
+29,analog,2383,electronics
 30,circuit design,2325,electronics
 31,fpga,2299,electronics
 32,relay,2297,electronics
 33,integrated circuit,2202,electronics
 35,adc,2161,electronics
-36,dc,2129,electronics
-37,battery charging,2123,electronics
-38,switch mode power supply,1958,electronics
+36,dc,2128,electronics
+37,battery charging,2122,electronics
+38,switch mode power supply,1959,electronics
 39,pwm,1951,electronics
-40,power electronics,1806,electronics
+40,power electronics,1807,electronics
 41,avr,1705,electronics
 43,bjt,1695,electronics
 44,dc dc converter,1569,electronics
 45,dc motor,1567,electronics
 48,noise,1494,electronics
 49,connector,1487,electronics
-0,quantum mechanics,21174,physics
-1,homework and exercises,18288,physics
+0,quantum mechanics,21182,physics
+1,homework and exercises,18285,physics
 2,newtonian mechanics,13907,physics
-3,electromagnetism,12582,physics
-4,thermodynamics,10048,physics
-5,quantum field theory,9379,physics
-6,general relativity,9164,physics
-7,special relativity,7373,physics
-8,forces,6150,physics
-9,classical mechanics,5973,physics
-10,optics,5475,physics
-11,electrostatics,5366,physics
-12,energy,4923,physics
+3,electromagnetism,12586,physics
+4,thermodynamics,10050,physics
+5,quantum field theory,9380,physics
+6,general relativity,9168,physics
+7,special relativity,7374,physics
+8,forces,6151,physics
+9,classical mechanics,5972,physics
+10,optics,5478,physics
+11,electrostatics,5367,physics
+12,energy,4926,physics
 13,fluid dynamics,4901,physics
-14,particle physics,4809,physics
+14,particle physics,4810,physics
 15,statistical mechanics,4367,physics
-16,waves,4026,physics
-17,cosmology,3928,physics
-18,gravity,3921,physics
-19,visible light,3903,physics
-20,electromagnetic radiation,3866,physics
-21,newtonian gravity,3659,physics
-22,black holes,3600,physics
-23,condensed matter,3446,physics
-24,lagrangian formalism,3304,physics
+16,waves,4027,physics
+17,cosmology,3929,physics
+18,gravity,3925,physics
+19,visible light,3906,physics
+20,electromagnetic radiation,3868,physics
+21,newtonian gravity,3658,physics
+22,black holes,3601,physics
+23,condensed matter,3447,physics
+24,lagrangian formalism,3305,physics
 25,magnetic fields,3202,physics
-26,electricity,3190,physics
-27,electric circuits,3102,physics
-28,kinematics,3012,physics
-29,photons,2977,physics
-30,experimental physics,2902,physics
-31,spacetime,2817,physics
-32,hilbert space,2802,physics
-33,operators,2734,physics
-34,angular momentum,2643,physics
+26,electricity,3192,physics
+27,electric circuits,3105,physics
+28,kinematics,3013,physics
+29,photons,2978,physics
+30,experimental physics,2903,physics
+31,spacetime,2818,physics
+32,hilbert space,2804,physics
+33,operators,2735,physics
+34,angular momentum,2644,physics
 35,rotational dynamics,2615,physics
-36,electric fields,2607,physics
-37,reference frames,2594,physics
+36,electric fields,2605,physics
+37,reference frames,2595,physics
 39,pressure,2553,physics
 40,momentum,2445,physics
-41,solid state physics,2424,physics
-42,mass,2413,physics
-43,electrons,2413,physics
-44,wavefunction,2401,physics
+41,solid state physics,2425,physics
+42,electrons,2414,physics
+43,mass,2412,physics
+44,wavefunction,2403,physics
 46,energy conservation,2331,physics
 47,nuclear physics,2312,physics
 48,temperature,2284,physics
-49,electric current,2228,physics
+49,electric current,2229,physics
 1,tls,5090,security
-3,passwords,3594,security
+3,passwords,3596,security
 4,web application,3070,security
 5,network,2592,security
 6,certificates,2464,security
 7,cryptography,2195,security
-8,malware,2135,security
-12,privacy,1735,security
+8,malware,2136,security
+12,privacy,1734,security
 15,web browser,1446,security
 17,xss,1314,security
 19,penetration test,1233,security
 20,public key infrastructure,1204,security
-21,man in the middle,1191,security
+21,man in the middle,1193,security
 22,password management,1177,security
 26,exploit,1156,security
 27,attacks,1133,security
@@ -955,14 +955,14 @@
 33,appsec,921,security
 34,virus,878,security
 35,webserver,874,security
-36,vulnerability,854,security
+36,vulnerability,856,security
 37,sql injection,817,security
 38,key management,764,security
 39,aes,763,security
 40,digital signature,757,security
-42,brute force,688,security
+42,brute force,687,security
 44,databases,666,security
-45,password cracking,664,security
+45,password cracking,663,security
 46,rsa,661,security
 48,gnupg,651,security
 49,pgp,643,security
@@ -970,10 +970,10 @@
 3,premiere,929,video
 4,video editor,573,video
 5,editing,491,video
-8,video quality,290,video
+8,video quality,291,video
 9,streaming,242,video
 10,software recommendation,233,video
-12,video recording,209,video
+12,video recording,210,video
 13,codec,206,video
 15,final cut pro x,201,video
 16,youtube,199,video
@@ -986,7 +986,7 @@
 25,software,139,video
 26,vegas pro,134,video
 27,davinci resolve,126,video
-28,transcoding,124,video
+28,transcoding,125,video
 29,dslr,120,video
 30,hardware,106,video
 31,video capture,106,video
@@ -1033,46 +1033,46 @@
 47,critique,300,graphicdesign
 48,design principles,297,graphicdesign
 49,client relations,294,graphicdesign
-9,replication,2997,dba
+9,replication,2998,dba
 10,index,2677,dba
 11,query performance,2670,dba
-12,t sql,2660,dba
+12,t sql,2661,dba
 17,innodb,1985,dba
 25,trigger,1265,dba
 26,availability groups,1219,dba
 28,restore,1172,dba
 29,ssms,1063,dba
-35,schema,892,dba
+35,schema,891,dba
 36,execution plan,887,dba
 38,update,841,dba
-40,foreign key,835,dba
+40,foreign key,834,dba
 43,migration,753,dba
 46,amazon rds,705,dba
 47,index tuning,700,dba
 49,locking,693,dba
 1,option pricing,1270,quant
-2,volatility,967,quant
-3,black scholes,859,quant
+2,volatility,968,quant
+3,black scholes,860,quant
 4,equities,800,quant
-5,programming,773,quant
-6,fixed income,772,quant
+5,fixed income,773,quant
+6,programming,773,quant
 7,interest rates,734,quant
 9,stochastic processes,626,quant
-10,implied volatility,568,quant
+10,implied volatility,569,quant
 11,stochastic calculus,560,quant
 12,portfolio management,535,quant
 13,finance,527,quant
 14,risk,469,quant
 15,portfolio optimization,454,quant
 16,bond,452,quant
-17,fx,440,quant
-18,futures,428,quant
+17,fx,441,quant
+19,futures,428,quant
 20,monte carlo,418,quant
 21,quant trading strategies,396,quant
-22,returns,391,quant
+22,returns,392,quant
 23,market data,391,quant
 25,brownian motion,356,quant
-26,risk management,351,quant
+26,risk management,352,quant
 29,hedging,333,quant
 30,finance mathematics,322,quant
 31,risk neutral measure,321,quant
@@ -1084,8 +1084,8 @@
 39,backtesting,283,quant
 41,quantlib,277,quant
 45,historical data,260,quant
-46,pricing,253,quant
-47,stochastic volatility,252,quant
+46,stochastic volatility,253,quant
+47,pricing,253,quant
 48,yield curve,249,quant
 49,american options,236,quant
 2,ms project,579,pm
@@ -1125,8 +1125,8 @@
 47,change management,64,pm
 48,human resources,64,pm
 49,stakeholders,62,pm
-2,views,14683,drupal
-3,theming,10390,drupal
+2,views,14684,drupal
+3,theming,10392,drupal
 4,entities,8489,drupal
 5,nodes,7304,drupal
 8,commerce,3694,drupal
@@ -1185,7 +1185,7 @@
 32,hyundai,369,mechanics
 33,bmw,362,mechanics
 34,engine theory,359,mechanics
-35,mazda,351,mechanics
+35,mazda,350,mechanics
 36,diesel,348,mechanics
 37,alternator,341,mechanics
 38,ignition,333,mechanics
@@ -1195,14 +1195,14 @@
 42,overheating,302,mechanics
 43,repair,293,mechanics
 44,starter,291,mechanics
-45,oil change,289,mechanics
+45,oil change,290,mechanics
 46,headlight,276,mechanics
 47,jeep,272,mechanics
 48,radiator,244,mechanics
 49,wiring,244,mechanics
 0,sharepoint online,15852,sharepoint
-2,sharepoint enterprise,11331,sharepoint
-4,sharepoint server,7380,sharepoint
+2,sharepoint enterprise,11332,sharepoint
+4,sharepoint server,7383,sharepoint
 5,sharepoint designer,6688,sharepoint
 9,sharepoint foundation,4329,sharepoint
 10,development,4266,sharepoint
@@ -1216,13 +1216,13 @@
 25,content type,1530,sharepoint
 26,list view,1463,sharepoint
 28,custom list,1419,sharepoint
-29,sharepoint rest api,1343,sharepoint
+29,sharepoint rest api,1344,sharepoint
 30,search results,1319,sharepoint
 31,spfx,1317,sharepoint
 34,lookup column,1047,sharepoint
-35,column,1039,sharepoint
+35,column,1040,sharepoint
 36,error,1027,sharepoint
-37,user profile,1008,sharepoint
+37,user profile,1009,sharepoint
 38,calculated column,984,sharepoint
 40,site collection,954,sharepoint
 41,master page,937,sharepoint
@@ -1240,7 +1240,7 @@
 13,load testing,378,sqa
 15,test automation framework,363,sqa
 16,testng,340,sqa
-18,appium,272,sqa
+18,appium,273,sqa
 20,protractor,226,sqa
 22,unit tests,205,sqa
 24,api testing,178,sqa
@@ -1262,16 +1262,16 @@
 46,bdd,102,sqa
 47,qa role,102,sqa
 48,mobile automation,100,sqa
-4,public key,1734,crypto
+4,public key,1735,crypto
 5,elliptic curves,1498,crypto
 6,cryptanalysis,1288,crypto
 7,signature,1036,crypto
 8,block cipher,849,crypto
 9,diffie hellman,788,crypto
 10,algorithm design,746,crypto
-11,keys,694,crypto
+11,keys,695,crypto
 12,random number generator,666,crypto
-13,homomorphic encryption,644,crypto
+13,homomorphic encryption,645,crypto
 14,zero knowledge proofs,637,crypto
 15,symmetric,631,crypto
 17,protocol design,586,crypto
@@ -1288,7 +1288,7 @@
 33,cbc,391,crypto
 34,secret sharing,389,crypto
 35,pseudo random generator,372,crypto
-36,dsa,358,crypto
+36,dsa,359,crypto
 38,des,353,crypto
 39,modular arithmetic,336,crypto
 40,one time pad,327,crypto
@@ -1300,22 +1300,22 @@
 46,lattice crypto,291,crypto
 47,modes of operation,291,crypto
 48,prime numbers,286,crypto
-2,fft,2332,dsp
-4,discrete signals,1788,dsp
-5,signal analysis,1650,dsp
+2,fft,2334,dsp
+4,discrete signals,1790,dsp
+5,signal analysis,1651,dsp
 6,fourier transform,1558,dsp
 8,digital communications,1083,dsp
 9,frequency spectrum,977,dsp
 11,filter design,930,dsp
 14,dft,750,dsp
 16,convolution,722,dsp
-17,frequency,563,dsp
+17,frequency,564,dsp
 18,power spectral density,561,dsp
-19,continuous signals,528,dsp
+19,continuous signals,529,dsp
 20,lowpass filter,521,dsp
 21,wavelet,479,dsp
 22,finite impulse response,478,dsp
-23,linear systems,469,dsp
+23,linear systems,470,dsp
 25,phase,449,dsp
 26,modulation,417,dsp
 27,infinite impulse response,385,dsp
@@ -1342,12 +1342,12 @@
 1,transactions,2805,bitcoin
 3,bitcoind,2018,bitcoin
 4,wallet,1936,bitcoin
-5,address,892,bitcoin
+5,address,893,bitcoin
 6,transaction fees,756,bitcoin
 8,mining pools,719,bitcoin
 9,exchanges,696,bitcoin
 10,json rpc,693,bitcoin
-11,private key,666,bitcoin
+11,private key,667,bitcoin
 12,blockchain.info,661,bitcoin
 13,client,651,bitcoin
 14,mining theory,640,bitcoin
@@ -1356,7 +1356,7 @@
 18,electrum,520,bitcoin
 19,unconfirmed transactions,484,bitcoin
 20,litecoin,455,bitcoin
-21,segregated witness,451,bitcoin
+21,segregated witness,452,bitcoin
 22,script,438,bitcoin
 23,altcoin,431,bitcoin
 26,mining hardware,402,bitcoin
@@ -1377,13 +1377,13 @@
 47,buy bitcoins,288,bitcoin
 48,currencies,279,bitcoin
 49,full node,274,bitcoin
-1,english,820,linguistics
-2,phonology,755,linguistics
+1,english,819,linguistics
+2,phonology,756,linguistics
 3,phonetics,736,linguistics
-5,etymology,582,linguistics
-6,historical linguistics,572,linguistics
-7,semantics,493,linguistics
-9,grammar,396,linguistics
+5,etymology,583,linguistics
+6,historical linguistics,573,linguistics
+7,semantics,494,linguistics
+9,grammar,395,linguistics
 10,morphology,385,linguistics
 12,ipa,239,linguistics
 13,linguistic typology,237,linguistics
@@ -1404,8 +1404,8 @@
 28,theoretical linguistics,150,linguistics
 29,french,144,linguistics
 30,greek,142,linguistics
-31,parts of speech,137,linguistics
-32,sociolinguistics,137,linguistics
+31,sociolinguistics,137,linguistics
+32,parts of speech,136,linguistics
 33,language acquisition,132,linguistics
 34,indo european,132,linguistics
 35,cases,128,linguistics
@@ -1413,7 +1413,7 @@
 37,written language,126,linguistics
 38,germanic languages,123,linguistics
 39,sound change,118,linguistics
-40,psycholinguistics,113,linguistics
+40,psycholinguistics,114,linguistics
 41,nlp,112,linguistics
 42,writing systems,112,linguistics
 43,dialects,106,linguistics
@@ -1470,36 +1470,36 @@
 47,biophysics,264,biology
 48,eyes,259,biology
 49,muscles,257,biology
-0,plotting,11828,mathematica
+0,plotting,11829,mathematica
 1,list manipulation,6545,mathematica
-2,differential equations,5245,mathematica
+2,differential equations,5246,mathematica
 3,equation solving,4654,mathematica
-5,calculus and analysis,3302,mathematica
-8,numerical integration,2533,mathematica
-9,performance tuning,2260,mathematica
+5,calculus and analysis,3303,mathematica
+8,numerical integration,2534,mathematica
+9,performance tuning,2261,mathematica
 10,function construction,1860,mathematica
 11,simplifying expressions,1778,mathematica
 12,graphs and networks,1671,mathematica
 14,bugs,1647,mathematica
 15,manipulate,1642,mathematica
 16,numerics,1616,mathematica
-17,front end,1569,mathematica
+17,front end,1570,mathematica
 18,mathematical optimization,1527,mathematica
 20,probability or statistics,1445,mathematica
-23,fitting,1352,mathematica
-25,evaluation,1269,mathematica
+23,fitting,1353,mathematica
+25,evaluation,1271,mathematica
 27,replacement,1187,mathematica
 29,symbolic,1146,mathematica
 30,pattern matching,1142,mathematica
 31,warning messages,1102,mathematica
-32,output formatting,1073,mathematica
+32,output formatting,1075,mathematica
 33,notebooks,1029,mathematica
 34,string manipulation,1013,mathematica
-35,special functions,1000,mathematica
-37,complex,912,mathematica
+35,special functions,1002,mathematica
+37,complex,913,mathematica
 38,table,909,mathematica
 39,regions,825,mathematica
-42,parallelization,744,mathematica
+42,parallelization,745,mathematica
 46,finite element method,720,mathematica
 49,series expansion,687,mathematica
 0,cognitive psychology,1181,psychology
@@ -1542,21 +1542,21 @@
 49,educational psychology,82,psychology
 1,complexity theory,4167,cs
 2,graphs,3750,cs
-3,formal languages,2335,cs
+3,formal languages,2337,cs
 6,algorithm analysis,1695,cs
-10,regular languages,1390,cs
-11,automata,1387,cs
-12,finite automata,1318,cs
+10,regular languages,1392,cs
+11,automata,1388,cs
+12,finite automata,1319,cs
 13,context free,1312,cs
 15,asymptotics,1129,cs
-17,formal grammars,1037,cs
+17,formal grammars,1039,cs
 21,computer architecture,899,cs
 22,runtime analysis,872,cs
 25,undecidability,708,cs
-27,dynamic programming,685,cs
+27,dynamic programming,686,cs
 28,trees,669,cs
 29,computational geometry,653,cs
-30,regular expressions,616,cs
+30,regular expressions,617,cs
 31,operating systems,610,cs
 32,np hard,589,cs
 33,proof techniques,588,cs
@@ -1567,82 +1567,82 @@
 42,binary trees,461,cs
 46,approximation,437,cs
 49,pushdown automata,421,cs
-0,organic chemistry,8259,chemistry
-1,inorganic chemistry,3834,chemistry
-2,physical chemistry,3643,chemistry
+0,organic chemistry,8258,chemistry
+1,inorganic chemistry,3833,chemistry
+2,physical chemistry,3645,chemistry
 3,acid base,2587,chemistry
-4,reaction mechanism,2297,chemistry
+4,reaction mechanism,2296,chemistry
 6,everyday chemistry,1502,chemistry
 7,electrochemistry,1397,chemistry
-8,experimental chemistry,1356,chemistry
-9,equilibrium,1325,chemistry
+8,experimental chemistry,1357,chemistry
+9,equilibrium,1326,chemistry
 10,quantum chemistry,1201,chemistry
-11,redox,1187,chemistry
-13,aqueous solution,978,chemistry
+11,redox,1189,chemistry
+13,aqueous solution,980,chemistry
 14,computational chemistry,948,chemistry
 15,nomenclature,932,chemistry
 16,water,908,chemistry
-17,kinetics,872,chemistry
-18,solubility,845,chemistry
-20,analytical chemistry,823,chemistry
-21,solutions,787,chemistry
+17,kinetics,873,chemistry
+18,solubility,846,chemistry
+20,analytical chemistry,825,chemistry
+21,solutions,789,chemistry
 22,aromatic compounds,745,chemistry
 23,ph,731,chemistry
 24,coordination compounds,658,chemistry
 25,stereochemistry,650,chemistry
 26,synthesis,642,chemistry
-28,gas laws,613,chemistry
+27,gas laws,613,chemistry
 29,spectroscopy,602,chemistry
 30,molecular orbital theory,589,chemistry
-31,concentration,587,chemistry
+31,concentration,588,chemistry
 32,carbonyl compounds,581,chemistry
 33,molecular structure,578,chemistry
-34,stoichiometry,571,chemistry
+34,stoichiometry,572,chemistry
 36,ions,552,chemistry
 37,home experiment,537,chemistry
-39,orbitals,498,chemistry
+39,orbitals,499,chemistry
 40,theoretical chemistry,496,chemistry
-41,metal,482,chemistry
-42,electronic configuration,462,chemistry
+41,metal,483,chemistry
+42,electronic configuration,463,chemistry
 43,crystal structure,458,chemistry
 44,polymers,455,chemistry
-46,alcohols,449,chemistry
-47,transition metals,446,chemistry
+46,alcohols,448,chemistry
+47,transition metals,447,chemistry
 48,enthalpy,440,chemistry
 49,halides,440,chemistry
 1,visualforce,15826,salesforce
-2,marketing cloud,9897,salesforce
-3,lightning aura components,8595,salesforce
+2,marketing cloud,9901,salesforce
+3,lightning aura components,8598,salesforce
 5,lightning,5954,salesforce
-6,soql,4838,salesforce
-8,unit test,4017,salesforce
-9,lightning web components,3521,salesforce
-10,community,3491,salesforce
-11,rest api,2772,salesforce
+6,soql,4840,salesforce
+8,unit test,4018,salesforce
+9,lightning web components,3523,salesforce
+10,community,3492,salesforce
+11,rest api,2771,salesforce
 12,ampscript,2422,salesforce
-15,salesforcedx,1835,salesforce
-16,lightning experience,1729,salesforce
+15,salesforcedx,1836,salesforce
+16,lightning experience,1730,salesforce
 17,managed package,1665,salesforce
 18,batch,1621,salesforce
-20,formula,1372,salesforce
-21,process builder,1368,salesforce
+20,formula,1373,salesforce
+21,process builder,1369,salesforce
 25,custom object,1316,salesforce
 26,visual workflow,1301,salesforce
-27,journeybuilder,1292,salesforce
+27,journeybuilder,1294,salesforce
 28,soap api,1278,salesforce
 29,controller,1271,salesforce
 32,dataextensions,1156,salesforce
 34,email template,1072,salesforce
-35,visualforce component,1068,salesforce
+35,visualforce component,1069,salesforce
 36,code coverage,1002,salesforce
 37,metadata api,995,salesforce
 38,callout,985,salesforce
 39,custom button,982,salesforce
-40,case,969,salesforce
+40,case,970,salesforce
 41,formula field,940,salesforce
 43,opportunity,926,salesforce
 44,picklist,911,salesforce
-45,chatter,889,salesforce
+45,chatter,890,salesforce
 46,lookup,888,salesforce
 47,lightning apps,866,salesforce
 0,expresso store,973,expressionengine
@@ -1722,7 +1722,7 @@
 47,aquaponics,23,sustainability
 48,economy,22,sustainability
 49,vermicomposting,22,sustainability
-0,ida,1626,reverseengineering
+0,ida,1628,reverseengineering
 1,disassembly,1015,reverseengineering
 5,binary analysis,442,reverseengineering
 6,ollydbg,413,reverseengineering
@@ -1752,11 +1752,11 @@
 49,patch reversing,86,reverseengineering
 0,cisco,3371,networkengineering
 2,switch,1684,networkengineering
-4,vlan,1073,networkengineering
-5,ip,829,networkengineering
-7,ethernet,753,networkengineering
+4,vlan,1074,networkengineering
+5,ip,830,networkengineering
+7,ethernet,754,networkengineering
 9,cisco asa,600,networkengineering
-13,nat,548,networkengineering
+13,nat,549,networkengineering
 14,bgp,546,networkengineering
 15,subnet,538,networkengineering
 17,cisco ios,522,networkengineering
@@ -1766,12 +1766,12 @@
 22,dhcp,389,networkengineering
 23,mac address,374,networkengineering
 24,ospf,372,networkengineering
-26,ip address,361,networkengineering
-28,cisco catalyst,303,networkengineering
+26,ip address,362,networkengineering
+29,cisco catalyst,303,networkengineering
 30,arp,298,networkengineering
 31,internet,287,networkengineering
-33,spanning tree,284,networkengineering
-35,lan,264,networkengineering
+33,spanning tree,283,networkengineering
+35,lan,266,networkengineering
 36,juniper junos,260,networkengineering
 37,ipsec,258,networkengineering
 39,wireshark,251,networkengineering
@@ -1786,32 +1786,32 @@
 48,snmp,189,networkengineering
 49,bandwidth,183,networkengineering
 0,ag.algebraic geometry,17007,mathoverflow.net
-1,nt.number theory,12197,mathoverflow.net
-4,dg.differential geometry,6745,mathoverflow.net
+1,nt.number theory,12198,mathoverflow.net
+4,dg.differential geometry,6746,mathoverflow.net
 5,fa.functional analysis,6651,mathoverflow.net
-6,at.algebraic topology,6494,mathoverflow.net
+6,at.algebraic topology,6493,mathoverflow.net
 8,gr.group theory,6282,mathoverflow.net
 9,rt.representation theory,5310,mathoverflow.net
-10,ct.category theory,4765,mathoverflow.net
+10,ct.category theory,4766,mathoverflow.net
 12,ac.commutative algebra,4218,mathoverflow.net
 14,set theory,3940,mathoverflow.net
-16,gn.general topology,3408,mathoverflow.net
+16,gn.general topology,3409,mathoverflow.net
 18,gt.geometric topology,3103,mathoverflow.net
-19,ap.analysis of pdes,2925,mathoverflow.net
+19,ap.analysis of pdes,2926,mathoverflow.net
 20,mg.metric geometry,2813,mathoverflow.net
-21,ca.classical analysis and odes,2502,mathoverflow.net
-23,cv.complex variables,2357,mathoverflow.net
-24,ra.rings and algebras,2347,mathoverflow.net
-25,complex geometry,2347,mathoverflow.net
+21,ca.classical analysis and odes,2503,mathoverflow.net
+23,cv.complex variables,2358,mathoverflow.net
+24,ra.rings and algebras,2348,mathoverflow.net
+25,complex geometry,2343,mathoverflow.net
 26,homotopy theory,2232,mathoverflow.net
 27,lie groups,2220,mathoverflow.net
-28,riemannian geometry,2130,mathoverflow.net
+28,riemannian geometry,2128,mathoverflow.net
 30,analytic number theory,2045,mathoverflow.net
 31,homological algebra,2027,mathoverflow.net
-34,ds.dynamical systems,1838,mathoverflow.net
+34,ds.dynamical systems,1839,mathoverflow.net
 35,finite groups,1772,mathoverflow.net
 36,lie algebras,1708,mathoverflow.net
-37,mp.mathematical physics,1656,mathoverflow.net
+37,mp.mathematical physics,1658,mathoverflow.net
 39,algebraic groups,1651,mathoverflow.net
 40,oa.operator algebras,1587,mathoverflow.net
 42,arithmetic geometry,1523,mathoverflow.net
@@ -1839,7 +1839,7 @@
 19,fuel,324,space
 20,low earth orbit,301,space
 21,landing,298,space
-23,engine design,288,space
+23,engine design,289,space
 24,orbital maneuver,274,space
 26,atmosphere,262,space
 28,probe,241,space
@@ -1896,7 +1896,7 @@
 45,solar eclipse,125,astronomy
 46,dark matter,121,astronomy
 48,binary star,114,astronomy
-0,arduino uno,7393,arduino
+0,arduino uno,7394,arduino
 1,serial,1908,arduino
 3,arduino mega,1644,arduino
 5,arduino ide,1324,arduino
@@ -1915,7 +1915,7 @@
 31,gsm,374,arduino
 32,shields,351,arduino
 33,sd card,336,arduino
-34,arduino leonardo,310,arduino
+34,arduino leonardo,311,arduino
 35,adafruit,308,arduino
 37,analogread,302,arduino
 40,bootloader,275,arduino
@@ -1924,22 +1924,22 @@
 44,arduino pro mini,258,arduino
 49,uploading,236,arduino
 11,dataset,1092,datascience
-15,cnn,1014,datascience
+15,cnn,1015,datascience
 17,predictive modeling,928,datascience
 18,lstm,846,datascience
-23,image classification,567,datascience
+23,image classification,569,datascience
 24,decision trees,530,datascience
-25,linear regression,530,datascience
-26,visualization,518,datascience
-27,data cleaning,518,datascience
+25,linear regression,529,datascience
+26,visualization,519,datascience
+27,data cleaning,517,datascience
 28,text mining,510,datascience
-29,xgboost,491,datascience
+29,xgboost,490,datascience
 31,logistic regression,481,datascience
 32,rnn,473,datascience
 33,convnet,464,datascience
 36,machine learning model,438,datascience
-37,bigdata,431,datascience
-38,training,418,datascience
+37,bigdata,430,datascience
+38,training,419,datascience
 40,feature engineering,406,datascience
 41,loss function,367,datascience
 42,data science model,359,datascience
@@ -1947,7 +1947,7 @@
 44,unsupervised learning,347,datascience
 45,recommender system,345,datascience
 48,k means,338,datascience
-49,preprocessing,335,datascience
+49,gradient descent,335,datascience
 1,raytracing,333,computergraphics
 4,shader,207,computergraphics
 5,texture,194,computergraphics
@@ -1972,16 +1972,16 @@
 45,antialiasing,39,computergraphics
 48,fragment shader,36,computergraphics
 49,importance sampling,35,computergraphics
-1,go ethereum,5118,ethereum
+1,go ethereum,5119,ethereum
 3,contract development,3248,ethereum
 4,truffle,2201,ethereum
-7,remix,1692,ethereum
+7,remix,1694,ethereum
 8,contract design,1642,ethereum
 10,ether,1373,ethereum
 12,contract deployment,1042,ethereum
-13,metamask,1005,ethereum
+13,metamask,1006,ethereum
 14,private blockchain,982,ethereum
-15,gas,959,ethereum
+15,gas,958,ethereum
 16,mining,956,ethereum
 17,wallets,930,ethereum
 18,contract invocation,844,ethereum
@@ -1999,31 +1999,31 @@
 36,myetherwallet,431,ethereum
 37,testnets,414,ethereum
 38,ethereumjs,406,ethereum
-39,ropsten,404,ethereum
+39,ropsten,405,ethereum
 40,storage,403,ethereum
 43,ganache,359,ethereum
 45,truffle migration,352,ethereum
 46,infura,323,ethereum
-4,convolutional neural networks,802,ai
+49,mapping,304,ethereum
+4,convolutional neural networks,803,ai
 8,ai design,313,ai
 10,comparison,293,ai
 13,q learning,258,ai
 14,image recognition,246,ai
 16,recurrent neural networks,230,ai
-17,long short term memory,208,ai
-18,philosophy,202,ai
+17,long short term memory,209,ai
+18,philosophy,203,ai
 19,game ai,195,ai
 20,datasets,195,ai
 22,dqn,184,ai
 23,deep rl,175,ai
 25,backpropagation,165,ai
-28,agi,147,ai
+28,agi,149,ai
 29,definitions,136,ai
 30,genetic algorithms,135,ai
 31,loss functions,134,ai
 32,applications,133,ai
 34,deep neural networks,129,ai
-36,gradient descent,115,ai
 37,research,112,ai
 38,papers,112,ai
 39,policy gradients,108,ai
@@ -2031,7 +2031,7 @@
 41,generative adversarial networks,103,ai
 42,object recognition,98,ai
 43,prediction,93,ai
-44,theory,91,ai
+44,theory,92,ai
 45,markov decision process,90,ai
 46,models,88,ai
 48,ai basics,87,ai
@@ -2052,7 +2052,7 @@
 27,smart plugs,36,iot
 29,data transfer,33,iot
 30,power consumption,32,iot
-34,system architecture,27,iot
+33,system architecture,28,iot
 35,philips hue,26,iot
 36,smart lights,25,iot
 38,ifttt,23,iot
@@ -2084,15 +2084,15 @@
 45,prometheus,44,devops
 46,bitbucket,43,devops
 48,yaml,42,devops
-0,quantum gate,651,quantumcomputing
-2,quantum state,554,quantumcomputing
-3,qiskit,543,quantumcomputing
-6,circuit construction,313,quantumcomputing
-7,entanglement,301,quantumcomputing
-8,ibm q experience,291,quantumcomputing
-11,error correction,184,quantumcomputing
+0,quantum gate,652,quantumcomputing
+2,quantum state,555,quantumcomputing
+3,qiskit,544,quantumcomputing
+6,circuit construction,314,quantumcomputing
+7,entanglement,302,quantumcomputing
+8,ibm q experience,292,quantumcomputing
+11,error correction,185,quantumcomputing
 13,grovers algorithm,140,quantumcomputing
-14,simulation,129,quantumcomputing
+14,simulation,130,quantumcomputing
 15,physical realization,125,quantumcomputing
 16,quantum operation,120,quantumcomputing
 18,nielsen and chuang,111,quantumcomputing
@@ -2100,7 +2100,7 @@
 20,q#,106,quantumcomputing
 21,gate synthesis,103,quantumcomputing
 22,physical qubit,86,quantumcomputing
-24,textbook and exercises,80,quantumcomputing
+23,textbook and exercises,82,quantumcomputing
 25,classical computing,76,quantumcomputing
 26,matrix representation,74,quantumcomputing
 27,hamiltonian simulation,73,quantumcomputing
@@ -2117,9 +2117,9 @@
 43,superposition,48,quantumcomputing
 44,universal gates,46,quantumcomputing
 45,deutsch jozsa algorithm,45,quantumcomputing
-46,stabilizer code,44,quantumcomputing
+46,stabilizer code,45,quantumcomputing
 47,d wave,44,quantumcomputing
-48,experiment,42,quantumcomputing
+48,experiment,43,quantumcomputing
 49,decoherence,42,quantumcomputing
 1,mixed integer programming,271,or
 5,integer programming,95,or
@@ -2159,7 +2159,7 @@
 48,docplex,15,or
 49,knapsack,14,or
 0,density functional theory,214,mattermodeling
-2,molecular dynamics,73,mattermodeling
+2,molecular dynamics,74,mattermodeling
 3,vasp,68,mattermodeling
 5,electronic structure,44,mattermodeling
 6,one topic per answer,42,mattermodeling
