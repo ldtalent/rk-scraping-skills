@@ -15,6 +15,15 @@
 
 Original Project Guidelines: https://docs.google.com/document/d/11q0MhsHCefDnb-XW9RbC9guZTrWtSmngQ-OFTQzCzMI/edit
 
+Sources:
+- stackoverflow skills
+- stackexchange skills
+- knowledge map cheatsheet
+- apis https://www.programmableweb.com/category/3d/apis?category=19958&page=2
+- existing ldtalent.org skills
+
+Categorization of skills: https://docs.google.com/spreadsheets/d/1KOBrlKhWf5Dc0NGzcjFjB4D--FJxMl_F7t27PBj_nDM/edit#gid=0
+
 notes on filling:
 cutoff of 1 on all sites 
 cutoff of 1 on stackoverflow (left off spring boot plugins / other) (also remember plugins => wordpress plugins)
