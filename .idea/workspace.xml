@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16885218-90a0-4d25-8a0a-04030ad20ebc" name="Default Changelist" comment="skills" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iavIqw9gvYmGtNEnowoC4Vfo2n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="/opt/lampp/htdocs/MyProject" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16885218-90a0-4d25-8a0a-04030ad20ebc" name="Default Changelist" comment="" />
+      <created>1602158450196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602158450196</updated>
+      <workItem from="1602158457218" duration="308000" />
+      <workItem from="1602397778790" duration="267000" />
+      <workItem from="1602401036613" duration="18000" />
+      <workItem from="1602427596008" duration="85000" />
+      <workItem from="1602684713106" duration="2357000" />
+      <workItem from="1602723106752" duration="1736000" />
+      <workItem from="1602770557508" duration="599000" />
+      <workItem from="1602776135379" duration="64000" />
+      <workItem from="1602787249771" duration="54000" />
+      <workItem from="1602820888392" duration="652000" />
+      <workItem from="1603037548760" duration="720000" />
+    </task>
+    <task id="LOCAL-00001" summary="skills">
+      <created>1602397814300</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602397814300</updated>
+    </task>
+    <task id="LOCAL-00002" summary="skills">
+      <created>1602397964294</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602397964294</updated>
+    </task>
+    <task id="LOCAL-00003" summary="skills">
+      <created>1602427647907</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602427647907</updated>
+    </task>
+    <task id="LOCAL-00004" summary="skills">
+      <created>1602776150262</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602776150262</updated>
+    </task>
+    <task id="LOCAL-00005" summary="skills">
+      <created>1602787275921</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602787275921</updated>
+    </task>
+    <task id="LOCAL-00006" summary="skills">
+      <created>1602820910559</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602820910559</updated>
+    </task>
+    <task id="LOCAL-00007" summary="skills">
+      <created>1603037570997</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603037570997</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="skills" />
+    <option name="LAST_COMMIT_MESSAGE" value="skills" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="483" y="173" width="624" height="533" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603037633673">
+      <screen x="0" y="27" width="1600" height="819" />
+    </state>
+    <state x="483" y="173" width="624" height="533" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1600.819@0.27.1600.819" timestamp="1603037633673" />
+    <state x="583" y="195" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603038992124">
+      <screen x="0" y="27" width="1600" height="819" />
+    </state>
+    <state x="583" y="195" key="FileChooserDialogImpl/0.27.1600.819@0.27.1600.819" timestamp="1603038992124" />
+    <state x="583" y="195" width="424" height="491" key="FileChooserDialogImpl/0.27.1600.821@0.27.1600.821" timestamp="1602821594238" />
+    <state x="395" y="167" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603037581799">
+      <screen x="0" y="27" width="1600" height="819" />
+    </state>
+    <state x="395" y="162" key="Vcs.Push.Dialog.v2/0.27.1600.789@0.27.1600.789" timestamp="1602427657407" />
+    <state x="395" y="165" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1600.805@0.27.1600.805" timestamp="1602397971573" />
+    <state x="395" y="167" key="Vcs.Push.Dialog.v2/0.27.1600.819@0.27.1600.819" timestamp="1603037581799" />
+    <state x="395" y="167" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1600.821@0.27.1600.821" timestamp="1602820919638" />
+    <state x="581" y="344" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602158707303">
+      <screen x="0" y="27" width="1600" height="805" />
+    </state>
+    <state x="581" y="344" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1600.805@0.27.1600.805" timestamp="1602158707303" />
+  </component>
+</project>
