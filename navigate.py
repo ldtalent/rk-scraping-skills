@@ -8,7 +8,7 @@ category = []
 follow = []
 
 browser = webdriver.Firefox()
-browser.get('https://www.programmableweb.com/category/all/apis?page=878')
+browser.get('https://www.programmableweb.com/category/all/apis')
 api_skills = browser.find_elements_by_class_name('odd')
 for api in api_skills:
     api_name = api.find_element_by_css_selector('td.views-field.views-field-pw-version-title').text

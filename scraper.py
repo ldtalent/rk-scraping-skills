@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
 
 browser = webdriver.Firefox()
-browser.get('https://www.programmableweb.com/category/all/apis?page=878')
+browser.get('https://www.programmableweb.com/category/all/apis')
 
 
 api_list = []
