@@ -28,9 +28,8 @@ while i<14:
             followers_list.append(followers)
 
         # browser.find_element_by_xpath("//a[@title='Go to next page']").click()
-        # element = WebDriverWait(browser,20).until(EC.element_to_be_clickable((By.XPATH,"//a[@title='Go to next page']")))
-        # element.click()
-        browser.forward()
+        element = WebDriverWait(browser,20).until(EC.element_to_be_clickable((By.XPATH,"//a[@title='Go to next page']")))
+        element.click()
         i +=1
     except exceptions.StaleElementReferenceException:
         pass
