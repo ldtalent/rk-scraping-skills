@@ -36,4 +36,4 @@ while i<14:
 
 df = pd.DataFrame(list(zip(api_list,category_list,followers_list)), columns=['API_Name','Category','Followers'])
 
-beach_balls_data = df.to_csv('v1_Final_Even_API_List.csv',index=False)
+beach_balls_data = df.to_csv('Final_Even_API_List.csv',index=False)
