@@ -15,7 +15,7 @@ api_list = []
 category_list = []
 followers_list = []
 i=0
-while i< 10:
+while i< 880:
     try:
         api_category = browser.find_elements_by_class_name('odd')
         for api in api_category:
