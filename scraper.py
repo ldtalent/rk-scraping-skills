@@ -42,4 +42,4 @@ while i< 10:
 
 df = pd.DataFrame(list(zip(api_list,category_list,followers_list)), columns=['API_Name','Category','Followers'])
 
-beach_balls_data = df.to_csv('Final.csv',index=False)
+apis = df.to_csv('Final.csv',index=False)
