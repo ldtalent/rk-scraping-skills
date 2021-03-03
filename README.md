@@ -27,3 +27,9 @@ Categorization of skills: https://docs.google.com/spreadsheets/d/1KOBrlKhWf5Dc0N
 notes on filling:
 cutoff of 1 on all sites 
 cutoff of 1 on stackoverflow (left off spring boot plugins / other) (also remember plugins => wordpress plugins)
+
+notes for sd transfer of skill:
+- do a quick scan of all the knowledge
+- fix up theoretical computer science
+- any category adjustments to make the ui better
+- 
